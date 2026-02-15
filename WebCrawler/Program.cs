@@ -19,9 +19,9 @@ namespace WebCrawlerHomework
 
         static async Task Main(string[] args)
         {
-            string urlsFile = "/home/sketch/source/InformationRetrievalBasic/WebCrawler/urls.json";
-            string indexPath = "/home/sketch/source/InformationRetrievalBasic/WebCrawler/index.txt";
-            string outputDir = "/home/sketch/source/InformationRetrievalBasic/WebCrawler/crawled_pages";
+            string urlsFile = "../../../urls.json";
+            string indexPath = "../../../index.txt";
+            string outputDir = "../../../crawled_pages";
 
             if (!Directory.Exists(outputDir))
                 Directory.CreateDirectory(outputDir);
