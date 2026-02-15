@@ -1,0 +1,1260 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Investment - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"2e1b822b-d457-45af-9e83-eb0b0dc0e002","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Investment","wgTitle":"Investment","wgCurRevisionId":1331762612,"wgRevisionId":1331762612,"wgArticleId":63121,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Wikipedia semi-protected pages","Articles needing additional references from February 2017","All articles needing additional references","Commons category link is on Wikidata","Articles with excerpts","Investment"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Investment","wgRelevantArticleId":63121,"wgTempUserName":null,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditHCaptchaVisualEditorOnLoadIntegrationEnabled":false,"wgConfirmEditHCaptchaSiteKey":"5d0c670e-a5f4-4258-ad16-1f42792c9c62","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q4290","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.wikimediamessages.styles":"ready","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.14">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Investment - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Investment">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Investment rootpage-Investment skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Main menu" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/enwiki-25.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en-25.svg" style="width: 8.75em; height: 1.375em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en-25.svg" width="140" height="11" style="width: 8.75em; height: 0.6875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="none" spellcheck="false" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Appearance">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Change the appearance of the page&#039;s font size, width, and color" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Appearance"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Appearance</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en" class=""><span>Donate</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:CreateAccount&amp;returnto=Investment" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:UserLogin&amp;returnto=Investment" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en"><span>Donate</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Investment" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Investment" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Types_of_financial_investments"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Types_of_financial_investments">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Types of financial investments</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Types_of_financial_investments-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Investment_and_risk"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Investment_and_risk">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Investment and risk</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Investment_and_risk-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-History"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#History">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>History</span>
+			</div>
+		</a>
+		
+		<ul id="toc-History-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Investment_strategies"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Investment_strategies">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>Investment strategies</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Investment_strategies-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Investment strategies subsection</span>
+			</button>
+		
+		<ul id="toc-Investment_strategies-sublist" class="vector-toc-list">
+			<li id="toc-Value_investing"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Value_investing">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">4.1</span>
+					<span>Value investing</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Value_investing-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Growth_investing"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Growth_investing">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">4.2</span>
+					<span>Growth investing</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Growth_investing-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Momentum_investing"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Momentum_investing">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">4.3</span>
+					<span>Momentum investing</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Momentum_investing-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Dollar_cost_averaging"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Dollar_cost_averaging">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">4.4</span>
+					<span>Dollar cost averaging</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Dollar_cost_averaging-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Micro-investing"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Micro-investing">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">4.5</span>
+					<span>Micro-investing</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Micro-investing-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Intermediaries_and_collective_investments"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Intermediaries_and_collective_investments">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>Intermediaries and collective investments</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Intermediaries_and_collective_investments-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Investment_valuation"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Investment_valuation">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>Investment valuation</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Investment_valuation-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>See also</span>
+			</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">8</span>
+				<span>References</span>
+			</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">9</span>
+				<span>External links</span>
+			</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Table of Contents" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Investment</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 91 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-91" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">91 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Belegging" title="Belegging – Afrikaans" lang="af" hreflang="af" data-title="Belegging" data-language-autonym="Afrikaans" data-language-local-name="Afrikaans" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1" title="استثمار – Arabic" lang="ar" hreflang="ar" data-title="استثمار" data-language-autonym="العربية" data-language-local-name="Arabic" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-arc mw-list-item"><a href="https://arc.wikipedia.org/wiki/%DC%AB%DC%98%DC%9A%DC%A1%DC%A0%DC%90" title="ܫܘܚܡܠܐ – Aramaic" lang="arc" hreflang="arc" data-title="ܫܘܚܡܠܐ" data-language-autonym="ܐܪܡܝܐ" data-language-local-name="Aramaic" class="interlanguage-link-target"><span>ܐܪܡܝܐ</span></a></li><li class="interlanguage-link interwiki-as mw-list-item"><a href="https://as.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%8B%E0%A6%97" title="বিনিয়োগ – Assamese" lang="as" hreflang="as" data-title="বিনিয়োগ" data-language-autonym="অসমীয়া" data-language-local-name="Assamese" class="interlanguage-link-target"><span>অসমীয়া</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Inversi%C3%B3n" title="Inversión – Asturian" lang="ast" hreflang="ast" data-title="Inversión" data-language-autonym="Asturianu" data-language-local-name="Asturian" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/%C4%B0nvestisiya" title="İnvestisiya – Azerbaijani" lang="az" hreflang="az" data-title="İnvestisiya" data-language-autonym="Azərbaycanca" data-language-local-name="Azerbaijani" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%DB%8C%D8%A7%D8%AA%DB%8C%D8%B1%DB%8C%D9%85%D8%AC%DB%8C%D9%84%DB%8C%DA%A9" title="یاتیریمجیلیک – South Azerbaijani" lang="azb" hreflang="azb" data-title="یاتیریمجیلیک" data-language-autonym="تۆرکجه" data-language-local-name="South Azerbaijani" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/T%C3%A2u-chu" title="Tâu-chu – Minnan" lang="nan" hreflang="nan" data-title="Tâu-chu" data-language-autonym="閩南語 / Bân-lâm-gí" data-language-local-name="Minnan" class="interlanguage-link-target"><span>閩南語 / Bân-lâm-gí</span></a></li><li class="interlanguage-link interwiki-ba mw-list-item"><a href="https://ba.wikipedia.org/wiki/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D1%8F%D0%BB%D0%B0%D1%80" title="Инвестициялар – Bashkir" lang="ba" hreflang="ba" data-title="Инвестициялар" data-language-autonym="Башҡортса" data-language-local-name="Bashkir" class="interlanguage-link-target"><span>Башҡортса</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%86%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D1%8B%D1%86%D1%8B%D1%8F" title="Інвестыцыя – Belarusian" lang="be" hreflang="be" data-title="Інвестыцыя" data-language-autonym="Беларуская" data-language-local-name="Belarusian" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/%D0%86%D0%BD%D0%B2%D1%8D%D1%81%D1%82%D1%8B%D1%86%D1%8B%D1%8F" title="Інвэстыцыя – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" data-title="Інвэстыцыя" data-language-autonym="Беларуская (тарашкевіца)" data-language-local-name="Belarusian (Taraškievica orthography)" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bew mw-list-item"><a href="https://bew.wikipedia.org/wiki/Penyukongan" title="Penyukongan – Betawi" lang="bew" hreflang="bew" data-title="Penyukongan" data-language-autonym="Betawi" data-language-local-name="Betawi" class="interlanguage-link-target"><span>Betawi</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Investicija" title="Investicija – Bosnian" lang="bs" hreflang="bs" data-title="Investicija" data-language-autonym="Bosanski" data-language-local-name="Bosnian" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-br mw-list-item"><a href="https://br.wikipedia.org/wiki/Posterezh" title="Posterezh – Breton" lang="br" hreflang="br" data-title="Posterezh" data-language-autonym="Brezhoneg" data-language-local-name="Breton" class="interlanguage-link-target"><span>Brezhoneg</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D1%8F" title="Инвестиция – Bulgarian" lang="bg" hreflang="bg" data-title="Инвестиция" data-language-autonym="Български" data-language-local-name="Bulgarian" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Inversi%C3%B3_econ%C3%B2mica" title="Inversió econòmica – Catalan" lang="ca" hreflang="ca" data-title="Inversió econòmica" data-language-autonym="Català" data-language-local-name="Catalan" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Investice" title="Investice – Czech" lang="cs" hreflang="cs" data-title="Investice" data-language-autonym="Čeština" data-language-local-name="Czech" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Investering" title="Investering – Danish" lang="da" hreflang="da" data-title="Investering" data-language-autonym="Dansk" data-language-local-name="Danish" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Investition" title="Investition – German" lang="de" hreflang="de" data-title="Investition" data-language-autonym="Deutsch" data-language-local-name="German" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Investeering" title="Investeering – Estonian" lang="et" hreflang="et" data-title="Investeering" data-language-autonym="Eesti" data-language-local-name="Estonian" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%95%CF%80%CE%AD%CE%BD%CE%B4%CF%85%CF%83%CE%B7" title="Επένδυση – Greek" lang="el" hreflang="el" data-title="Επένδυση" data-language-autonym="Ελληνικά" data-language-local-name="Greek" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Inversi%C3%B3n" title="Inversión – Spanish" lang="es" hreflang="es" data-title="Inversión" data-language-autonym="Español" data-language-local-name="Spanish" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Investado" title="Investado – Esperanto" lang="eo" hreflang="eo" data-title="Investado" data-language-autonym="Esperanto" data-language-local-name="Esperanto" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Inbestimendu" title="Inbestimendu – Basque" lang="eu" hreflang="eu" data-title="Inbestimendu" data-language-autonym="Euskara" data-language-local-name="Basque" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87%E2%80%8C%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C" title="سرمایه‌گذاری – Persian" lang="fa" hreflang="fa" data-title="سرمایه‌گذاری" data-language-autonym="فارسی" data-language-local-name="Persian" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Investissement" title="Investissement – French" lang="fr" hreflang="fr" data-title="Investissement" data-language-autonym="Français" data-language-local-name="French" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-fy mw-list-item"><a href="https://fy.wikipedia.org/wiki/Ynvestearjen" title="Ynvestearjen – Western Frisian" lang="fy" hreflang="fy" data-title="Ynvestearjen" data-language-autonym="Frysk" data-language-local-name="Western Frisian" class="interlanguage-link-target"><span>Frysk</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Infheist%C3%ADocht" title="Infheistíocht – Irish" lang="ga" hreflang="ga" data-title="Infheistíocht" data-language-autonym="Gaeilge" data-language-local-name="Irish" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Investimento" title="Investimento – Galician" lang="gl" hreflang="gl" data-title="Investimento" data-language-autonym="Galego" data-language-local-name="Galician" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%ED%88%AC%EC%9E%90" title="투자 – Korean" lang="ko" hreflang="ko" data-title="투자" data-language-autonym="한국어" data-language-local-name="Korean" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D5%86%D5%A5%D6%80%D5%A4%D6%80%D5%B8%D6%82%D5%B4_(%D5%A2%D5%A1%D5%B6%D5%AF%D5%A1%D5%B5%D5%AB%D5%B6)" title="Ներդրում (բանկային) – Armenian" lang="hy" hreflang="hy" data-title="Ներդրում (բանկային)" data-language-autonym="Հայերեն" data-language-local-name="Armenian" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A5%87%E0%A4%B6" title="निवेश – Hindi" lang="hi" hreflang="hi" data-title="निवेश" data-language-autonym="हिन्दी" data-language-local-name="Hindi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Investicija" title="Investicija – Croatian" lang="hr" hreflang="hr" data-title="Investicija" data-language-autonym="Hrvatski" data-language-local-name="Croatian" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-io mw-list-item"><a href="https://io.wikipedia.org/wiki/Koloko" title="Koloko – Ido" lang="io" hreflang="io" data-title="Koloko" data-language-autonym="Ido" data-language-local-name="Ido" class="interlanguage-link-target"><span>Ido</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Investasi" title="Investasi – Indonesian" lang="id" hreflang="id" data-title="Investasi" data-language-autonym="Bahasa Indonesia" data-language-local-name="Indonesian" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Investimento" title="Investimento – Italian" lang="it" hreflang="it" data-title="Investimento" data-language-autonym="Italiano" data-language-local-name="Italian" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%94%D7%A9%D7%A7%D7%A2%D7%94" title="השקעה – Hebrew" lang="he" hreflang="he" data-title="השקעה" data-language-autonym="עברית" data-language-local-name="Hebrew" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-jv mw-list-item"><a href="https://jv.wikipedia.org/wiki/Inv%C3%A8stasi" title="Invèstasi – Javanese" lang="jv" hreflang="jv" data-title="Invèstasi" data-language-autonym="Jawa" data-language-local-name="Javanese" class="interlanguage-link-target"><span>Jawa</span></a></li><li class="interlanguage-link interwiki-kn mw-list-item"><a href="https://kn.wikipedia.org/wiki/%E0%B2%B9%E0%B3%82%E0%B2%A1%E0%B2%BF%E0%B2%95%E0%B3%86" title="ಹೂಡಿಕೆ – Kannada" lang="kn" hreflang="kn" data-title="ಹೂಡಿಕೆ" data-language-autonym="ಕನ್ನಡ" data-language-local-name="Kannada" class="interlanguage-link-target"><span>ಕನ್ನಡ</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%98%E1%83%9C%E1%83%95%E1%83%94%E1%83%A1%E1%83%A2%E1%83%98%E1%83%AA%E1%83%98%E1%83%90" title="ინვესტიცია – Georgian" lang="ka" hreflang="ka" data-title="ინვესტიცია" data-language-autonym="ქართული" data-language-local-name="Georgian" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/Uwekezaji" title="Uwekezaji – Swahili" lang="sw" hreflang="sw" data-title="Uwekezaji" data-language-autonym="Kiswahili" data-language-local-name="Swahili" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%D9%88%DB%95%D8%A8%DB%95%D8%B1%DA%BE%DB%8E%D9%86%D8%A7%D9%86" title="وەبەرھێنان – Central Kurdish" lang="ckb" hreflang="ckb" data-title="وەبەرھێنان" data-language-autonym="کوردی" data-language-local-name="Central Kurdish" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wikipedia.org/wiki/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D1%8F" title="Инвестиция – Kyrgyz" lang="ky" hreflang="ky" data-title="Инвестиция" data-language-autonym="Кыргызча" data-language-local-name="Kyrgyz" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Collocatio_pecuniae" title="Collocatio pecuniae – Latin" lang="la" hreflang="la" data-title="Collocatio pecuniae" data-language-autonym="Latina" data-language-local-name="Latin" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Kapit%C4%81lieguld%C4%ABjumi" title="Kapitālieguldījumi – Latvian" lang="lv" hreflang="lv" data-title="Kapitālieguldījumi" data-language-autonym="Latviešu" data-language-local-name="Latvian" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Investicijos" title="Investicijos – Lithuanian" lang="lt" hreflang="lt" data-title="Investicijos" data-language-autonym="Lietuvių" data-language-local-name="Lithuanian" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Beruh%C3%A1z%C3%A1s" title="Beruházás – Hungarian" lang="hu" hreflang="hu" data-title="Beruházás" data-language-autonym="Magyar" data-language-local-name="Hungarian" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B8" title="Инвестиции – Macedonian" lang="mk" hreflang="mk" data-title="Инвестиции" data-language-autonym="Македонски" data-language-local-name="Macedonian" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-mr mw-list-item"><a href="https://mr.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%82%E0%A4%A1%E0%A4%B5%E0%A4%B2%E0%A5%80_%E0%A4%97%E0%A5%81%E0%A4%82%E0%A4%A4%E0%A4%B5%E0%A4%A3%E0%A5%82%E0%A4%95" title="भांडवली गुंतवणूक – Marathi" lang="mr" hreflang="mr" data-title="भांडवली गुंतवणूक" data-language-autonym="मराठी" data-language-local-name="Marathi" class="interlanguage-link-target"><span>मराठी</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Pelaburan" title="Pelaburan – Malay" lang="ms" hreflang="ms" data-title="Pelaburan" data-language-autonym="Bahasa Melayu" data-language-local-name="Malay" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-min mw-list-item"><a href="https://min.wikipedia.org/wiki/Investasi" title="Investasi – Minangkabau" lang="min" hreflang="min" data-title="Investasi" data-language-autonym="Minangkabau" data-language-local-name="Minangkabau" class="interlanguage-link-target"><span>Minangkabau</span></a></li><li class="interlanguage-link interwiki-cdo mw-list-item"><a href="https://cdo.wikipedia.org/wiki/D%C3%A0u-c%E1%B9%B3%CC%86" title="Dàu-cṳ̆ – Mindong" lang="cdo" hreflang="cdo" data-title="Dàu-cṳ̆" data-language-autonym="閩東語 / Mìng-dĕ̤ng-ngṳ̄" data-language-local-name="Mindong" class="interlanguage-link-target"><span>閩東語 / Mìng-dĕ̤ng-ngṳ̄</span></a></li><li class="interlanguage-link interwiki-mn mw-list-item"><a href="https://mn.wikipedia.org/wiki/%D0%A5%D3%A9%D1%80%D3%A9%D0%BD%D0%B3%D3%A9_%D0%BE%D1%80%D1%83%D1%83%D0%BB%D0%B0%D0%BB%D1%82" title="Хөрөнгө оруулалт – Mongolian" lang="mn" hreflang="mn" data-title="Хөрөнгө оруулалт" data-language-autonym="Монгол" data-language-local-name="Mongolian" class="interlanguage-link-target"><span>Монгол</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Investering" title="Investering – Dutch" lang="nl" hreflang="nl" data-title="Investering" data-language-autonym="Nederlands" data-language-local-name="Dutch" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ne mw-list-item"><a href="https://ne.wikipedia.org/wiki/%E0%A4%B2%E0%A4%97%E0%A4%BE%E0%A4%A8%E0%A5%80" title="लगानी – Nepali" lang="ne" hreflang="ne" data-title="लगानी" data-language-autonym="नेपाली" data-language-local-name="Nepali" class="interlanguage-link-target"><span>नेपाली</span></a></li><li class="interlanguage-link interwiki-new mw-list-item"><a href="https://new.wikipedia.org/wiki/%E0%A4%B2%E0%A4%97%E0%A4%BE%E0%A4%A8%E0%A5%80" title="लगानी – Newari" lang="new" hreflang="new" data-title="लगानी" data-language-autonym="नेपाल भाषा" data-language-local-name="Newari" class="interlanguage-link-target"><span>नेपाल भाषा</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E6%8A%95%E8%B3%87" title="投資 – Japanese" lang="ja" hreflang="ja" data-title="投資" data-language-autonym="日本語" data-language-local-name="Japanese" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Investering" title="Investering – Norwegian Bokmål" lang="nb" hreflang="nb" data-title="Investering" data-language-autonym="Norsk bokmål" data-language-local-name="Norwegian Bokmål" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Investering" title="Investering – Norwegian Nynorsk" lang="nn" hreflang="nn" data-title="Investering" data-language-autonym="Norsk nynorsk" data-language-local-name="Norwegian Nynorsk" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-mhr mw-list-item"><a href="https://mhr.wikipedia.org/wiki/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B9" title="Инвестиций – Eastern Mari" lang="mhr" hreflang="mhr" data-title="Инвестиций" data-language-autonym="Олык марий" data-language-local-name="Eastern Mari" class="interlanguage-link-target"><span>Олык марий</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Investitsiya" title="Investitsiya – Uzbek" lang="uz" hreflang="uz" data-title="Investitsiya" data-language-autonym="Oʻzbekcha / ўзбекча" data-language-local-name="Uzbek" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wikipedia.org/wiki/%E0%A8%A8%E0%A8%BF%E0%A8%B5%E0%A9%87%E0%A8%B8%E0%A8%BC" title="ਨਿਵੇਸ਼ – Punjabi" lang="pa" hreflang="pa" data-title="ਨਿਵੇਸ਼" data-language-autonym="ਪੰਜਾਬੀ" data-language-local-name="Punjabi" class="interlanguage-link-target"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-pnb mw-list-item"><a href="https://pnb.wikipedia.org/wiki/%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%DB%81_%DA%A9%D8%A7%D8%B1%DB%8C" title="سرمایہ کاری – Western Punjabi" lang="pnb" hreflang="pnb" data-title="سرمایہ کاری" data-language-autonym="پنجابی" data-language-local-name="Western Punjabi" class="interlanguage-link-target"><span>پنجابی</span></a></li><li class="interlanguage-link interwiki-ps mw-list-item"><a href="https://ps.wikipedia.org/wiki/%D9%BE%D8%A7%D9%86%DA%AB%D9%88%D9%86%D9%87" title="پانګونه – Pashto" lang="ps" hreflang="ps" data-title="پانګونه" data-language-autonym="پښتو" data-language-local-name="Pashto" class="interlanguage-link-target"><span>پښتو</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Inwestycja" title="Inwestycja – Polish" lang="pl" hreflang="pl" data-title="Inwestycja" data-language-autonym="Polski" data-language-local-name="Polish" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Investimento" title="Investimento – Portuguese" lang="pt" hreflang="pt" data-title="Investimento" data-language-autonym="Português" data-language-local-name="Portuguese" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D1%8F" title="Инвестиция – Kazakh" lang="kk" hreflang="kk" data-title="Инвестиция" data-language-autonym="Қазақша" data-language-local-name="Kazakh" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Investi%C8%9Bie" title="Investiție – Romanian" lang="ro" hreflang="ro" data-title="Investiție" data-language-autonym="Română" data-language-local-name="Romanian" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B8" title="Инвестиции – Russian" lang="ru" hreflang="ru" data-title="Инвестиции" data-language-autonym="Русский" data-language-local-name="Russian" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sa mw-list-item"><a href="https://sa.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A5%87%E0%A4%B6%E0%A4%83" title="निवेशः – Sanskrit" lang="sa" hreflang="sa" data-title="निवेशः" data-language-autonym="संस्कृतम्" data-language-local-name="Sanskrit" class="interlanguage-link-target"><span>संस्कृतम्</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Investimi" title="Investimi – Albanian" lang="sq" hreflang="sq" data-title="Investimi" data-language-autonym="Shqip" data-language-local-name="Albanian" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Investment" title="Investment – Simple English" lang="en-simple" hreflang="en-simple" data-title="Investment" data-language-autonym="Simple English" data-language-local-name="Simple English" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Investicija" title="Investicija – Slovenian" lang="sl" hreflang="sl" data-title="Investicija" data-language-autonym="Slovenščina" data-language-local-name="Slovenian" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%A3%D0%BB%D0%B0%D0%B3%D0%B0%D1%9A%D0%B5" title="Улагање – Serbian" lang="sr" hreflang="sr" data-title="Улагање" data-language-autonym="Српски / srpski" data-language-local-name="Serbian" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Investicija" title="Investicija – Serbo-Croatian" lang="sh" hreflang="sh" data-title="Investicija" data-language-autonym="Srpskohrvatski / српскохрватски" data-language-local-name="Serbo-Croatian" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-su mw-list-item"><a href="https://su.wikipedia.org/wiki/Inv%C3%A9stasi" title="Invéstasi – Sundanese" lang="su" hreflang="su" data-title="Invéstasi" data-language-autonym="Sunda" data-language-local-name="Sundanese" class="interlanguage-link-target"><span>Sunda</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Investointi" title="Investointi – Finnish" lang="fi" hreflang="fi" data-title="Investointi" data-language-autonym="Suomi" data-language-local-name="Finnish" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Investering" title="Investering – Swedish" lang="sv" hreflang="sv" data-title="Investering" data-language-autonym="Svenska" data-language-local-name="Swedish" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Pamumuhunan" title="Pamumuhunan – Tagalog" lang="tl" hreflang="tl" data-title="Pamumuhunan" data-language-autonym="Tagalog" data-language-local-name="Tagalog" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%B2%E0%AF%80%E0%AE%9F%E0%AF%81" title="முதலீடு – Tamil" lang="ta" hreflang="ta" data-title="முதலீடு" data-language-autonym="தமிழ்" data-language-local-name="Tamil" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99" title="การลงทุน – Thai" lang="th" hreflang="th" data-title="การลงทุน" data-language-autonym="ไทย" data-language-local-name="Thai" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-te mw-list-item"><a href="https://te.wikipedia.org/wiki/%E0%B0%AA%E0%B1%86%E0%B0%9F%E0%B1%8D%E0%B0%9F%E0%B1%81%E0%B0%AC%E0%B0%A1%E0%B0%BF" title="పెట్టుబడి – Telugu" lang="te" hreflang="te" data-title="పెట్టుబడి" data-language-autonym="తెలుగు" data-language-local-name="Telugu" class="interlanguage-link-target"><span>తెలుగు</span></a></li><li class="interlanguage-link interwiki-tg mw-list-item"><a href="https://tg.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%BC%D0%BE%D1%8F%D0%B3%D1%83%D0%B7%D0%BE%D1%80%D3%A3" title="Сармоягузорӣ – Tajik" lang="tg" hreflang="tg" data-title="Сармоягузорӣ" data-language-autonym="Тоҷикӣ" data-language-local-name="Tajik" class="interlanguage-link-target"><span>Тоҷикӣ</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Yat%C4%B1r%C4%B1m" title="Yatırım – Turkish" lang="tr" hreflang="tr" data-title="Yatırım" data-language-autonym="Türkçe" data-language-local-name="Turkish" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%86%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D1%96%D1%8F" title="Інвестиція – Ukrainian" lang="uk" hreflang="uk" data-title="Інвестиція" data-language-autonym="Українська" data-language-local-name="Ukrainian" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%DB%81_%DA%A9%D8%A7%D8%B1%DB%8C" title="سرمایہ کاری – Urdu" lang="ur" hreflang="ur" data-title="سرمایہ کاری" data-language-autonym="اردو" data-language-local-name="Urdu" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vec mw-list-item"><a href="https://vec.wikipedia.org/wiki/Investimento" title="Investimento – Venetian" lang="vec" hreflang="vec" data-title="Investimento" data-language-autonym="Vèneto" data-language-local-name="Venetian" class="interlanguage-link-target"><span>Vèneto</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A7u_t%C6%B0" title="Đầu tư – Vietnamese" lang="vi" hreflang="vi" data-title="Đầu tư" data-language-autonym="Tiếng Việt" data-language-local-name="Vietnamese" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E6%8A%95%E8%B5%84" title="投资 – Wu" lang="wuu" hreflang="wuu" data-title="投资" data-language-autonym="吴语" data-language-local-name="Wu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E6%8A%95%E8%B3%87" title="投資 – Cantonese" lang="yue" hreflang="yue" data-title="投資" data-language-autonym="粵語" data-language-local-name="Cantonese" class="interlanguage-link-target"><span>粵語</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E6%8A%95%E8%B5%84" title="投资 – Chinese" lang="zh" hreflang="zh" data-title="投资" data-language-autonym="中文" data-language-local-name="Chinese" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4290#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Investment" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Investment" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Investment"><span>Read</span></a></li><li id="ca-viewsource" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Investment&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e"><span>View source</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Investment&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Investment"><span>Read</span></a></li><li id="ca-more-viewsource" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Investment&amp;action=edit"><span>View source</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Investment&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Investment" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Investment" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Investment&amp;oldid=1331762612" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Investment&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Investment&amp;id=1331762612&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FInvestment"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FInvestment"><span>Download QR code</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Investment&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Investment&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Investments" hreflang="en"><span>Wikimedia Commons</span></a></li><li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item"><a href="https://en.wikiquote.org/wiki/Investment" hreflang="en"><span>Wikiquote</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4290" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Appearance">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Appearance</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">hide</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-pp-default" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected until August 6, 2026 at 07:07 UTC."><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png" decoding="async" width="20" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/40px-Semi-protection-shackle.svg.png 1.5x" data-file-width="512" data-file-height="512" /></a></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-subjectpageheader">
+</div><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Set of actions with the intent of earning profit</div>
+<style data-mw-deduplicate="TemplateStyles:r1320445320">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}@media print{body.ns-0 .mw-parser-output .hatnote{display:none!important}}</style><div role="note" class="hatnote navigation-not-searchable">This article is about investment in finance. For investment in macroeconomics, see <a href="/wiki/Investment_(macroeconomics)" title="Investment (macroeconomics)">Investment (macroeconomics)</a>. For other uses, see <a href="/wiki/Investment_(disambiguation)" class="mw-disambig" title="Investment (disambiguation)">Investment (disambiguation)</a>.</div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1320445320" /><div role="note" class="hatnote navigation-not-searchable">"Invest" redirects here. For other uses, see <a href="/wiki/Invest_(disambiguation)" class="mw-disambig" title="Invest (disambiguation)">Invest (disambiguation)</a>.</div>
+<p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1305433154">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}@media print{body.ns-0 .mw-parser-output .ambox{display:none!important}}</style><table class="box-More&#95;citations&#95;needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><span typeof="mw:File"><a href="/wiki/File:Question_book-new.svg" class="mw-file-description"><img alt="icon" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/60px-Question_book-new.svg.png" decoding="async" width="50" height="39" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/120px-Question_book-new.svg.png 1.5x" data-file-width="512" data-file-height="399" /></a></span></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a href="/wiki/Special:EditPage/Investment" title="Special:EditPage/Investment">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="https://www.google.com/search?as_eq=wikipedia&amp;q=%22Investment%22">"Investment"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="https://www.google.com/search?tbm=nws&amp;q=%22Investment%22+-wikipedia&amp;tbs=ar:1">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.google.com/search?&amp;q=%22Investment%22&amp;tbs=bkt:s&amp;tbm=bks">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.google.com/search?tbs=bks:1&amp;q=%22Investment%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://scholar.google.com/scholar?q=%22Investment%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Investment%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <span class="date-container"><i>(<span class="date">February 2017</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this message</a></small>)</i></span></div></td></tr></tbody></table>
+<p><b>Investment</b> is traditionally defined as the "commitment of resources into something expected to gain value over time".<sup id="cite&#95;ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> If an investment involves money, then it can be defined as a "commitment of money to receive more money later". From a broader viewpoint, an investment can be defined as "to tailor the pattern of expenditure and receipt of resources to optimise the desirable patterns of these flows". When expenditures and receipts are defined in terms of money, then the net monetary receipt in a time period is termed <a href="/wiki/Cash_flow" title="Cash flow">cash flow</a>, while money received in a series of several time periods is termed cash flow stream.
+</p><p>In <a href="/wiki/Finance" title="Finance">finance</a>, the purpose of investing is to generate a <a href="/wiki/Return_(finance)" class="mw-redirect" title="Return (finance)">return</a> on the invested <a href="/wiki/Asset" title="Asset">asset</a>. The return may consist of a capital gain (profit) or loss, realised if the  investment is sold, unrealised <a href="/wiki/Capital_appreciation" title="Capital appreciation">capital appreciation</a> (or depreciation) if yet unsold. It may also consist of periodic income such as <a href="/wiki/Dividend" title="Dividend">dividends</a>, <a href="/wiki/Interest" title="Interest">interest</a>, or rental income. The return may also include currency gains or losses due to changes in foreign currency <a href="/wiki/Exchange_rate" title="Exchange rate">exchange rates</a>.
+</p><p><a href="/wiki/Investor" title="Investor">Investors</a> generally expect higher <a href="/wiki/Rate_of_return" title="Rate of return">returns</a> from <a href="/wiki/Financial_risk" title="Financial risk">riskier</a> investments. When a low-risk investment is made, the return is also generally low. Similarly, high risk comes with a chance of high losses. Investors, particularly novices, are often advised to <a href="/wiki/Diversification_(finance)" title="Diversification (finance)">diversify</a> their <a href="/wiki/Portfolio_(finance)" title="Portfolio (finance)">portfolio</a>. Diversification has the <a href="/wiki/Statistics" title="Statistics">statistical</a> effect of reducing overall risk.
+</p>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading2"><h2 id="Types_of_financial_investments">Types of financial investments</h2></div>
+<p>In modern economies, <a href="/wiki/Traditional_investments" title="Traditional investments">traditional investments</a> include:
+</p>
+<ul><li><a href="/wiki/Stock" title="Stock">Stocks</a> – <a href="/wiki/Business" title="Business">Business</a> ownership, known as <a href="/wiki/Equity_(finance)" title="Equity (finance)">equity</a>, in <a href="/wiki/Publicly_traded_companies" class="mw-redirect" title="Publicly traded companies">publicly traded companies</a></li>
+<li><a href="/wiki/Bond_(finance)" title="Bond (finance)">Bonds</a> – <a href="/wiki/Loan" title="Loan">loans</a> to governments and businesses traded on public markets</li>
+<li><a href="/wiki/Cash" title="Cash">Cash</a> – holding a particular <a href="/wiki/Currency" title="Currency">currency</a>, whether in anticipation of spending or to take advantage of or hedge against changes in a <a href="/wiki/Currency_exchange_rate" class="mw-redirect" title="Currency exchange rate">currency exchange rate</a></li>
+<li><a href="/wiki/Real_estate_investing" title="Real estate investing">Real estate</a>, which can be rented to provide ongoing income or resold if it increases in value</li></ul>
+<p><a href="/wiki/Alternative_investment" title="Alternative investment">Alternative investments</a> include:
+</p>
+<ul><li><a href="/wiki/Private_equity" title="Private equity">Private equity</a> in businesses that are not publicly traded on a <a href="/wiki/Stock_exchange" title="Stock exchange">stock exchange</a>, often involving <a href="/wiki/Venture_capital" title="Venture capital">venture capital</a> funds, <a href="/wiki/Angel_investor" title="Angel investor">angel investors</a>, or <a href="/wiki/Equity_crowdfunding" title="Equity crowdfunding">equity crowdfunding</a></li>
+<li>Other <a href="/wiki/Loan" title="Loan">loans</a>, including <a href="/wiki/Mortgage" title="Mortgage">mortgages</a></li>
+<li><a href="/wiki/Commodities" class="mw-redirect" title="Commodities">Commodities</a>, such as <a href="/wiki/Precious_metal" title="Precious metal">precious metals</a> like <a href="/wiki/Gold" title="Gold">gold</a>, <a href="/wiki/Agricultural" class="mw-redirect" title="Agricultural">agricultural</a> products like <a href="/wiki/Potatoes" class="mw-redirect" title="Potatoes">potatoes</a>, and <a href="/wiki/Energy" title="Energy">energy</a> deliveries like <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a></li>
+<li><a href="/wiki/Collectables" class="mw-redirect" title="Collectables">Collectables</a>, including <a href="/wiki/Art" title="Art">art</a>, <a href="/wiki/Coin" title="Coin">coins</a>, <a href="/wiki/Vintage_car" title="Vintage car">vintage cars</a>, <a href="/wiki/Postage_stamp" title="Postage stamp">postage stamps</a>, and <a href="/wiki/Wine" title="Wine">wine</a></li>
+<li><a href="/wiki/Carbon_offsets_and_credits" title="Carbon offsets and credits">Carbon offsets and credits</a></li>
+<li>Digital entities like <a href="/wiki/Cryptocurrency" title="Cryptocurrency">cryptocurrency</a> and <a href="/wiki/Non-fungible_token" title="Non-fungible token">non-fungible tokens</a></li>
+<li><a href="/wiki/Hedge_fund" title="Hedge fund">Hedge funds</a> that use sophisticated techniques like:
+<ul><li><a href="/wiki/Derivative_(finance)" title="Derivative (finance)">Derivatives</a>, the value of which is determined by a contract and is derived by calculation from the performance of some other sort of underlying investment; these include <a href="/wiki/Forward_contract" title="Forward contract">forwards</a>, <a href="/wiki/Futures_contract" title="Futures contract">futures</a>, <a href="/wiki/Option_(finance)" title="Option (finance)">options</a>, <a href="/wiki/Swap_(finance)" title="Swap (finance)">swaps</a>, <a href="/wiki/Collateralized_debt_obligation" title="Collateralized debt obligation">collateralized debt obligations</a>, <a href="/wiki/Credit_default_swap" title="Credit default swap">credit default swaps</a>, and <a href="/wiki/Tax_Receivable_Agreement" title="Tax Receivable Agreement">Tax Receivable Agreements</a></li>
+<li><a href="/wiki/Leverage_(finance)" title="Leverage (finance)">Leveraged investing</a>, which is the investment of borrowed money</li>
+<li><a href="/wiki/Short_selling" class="mw-redirect" title="Short selling">Short selling</a>, which typically uses leverage and derivatives to bet that the value of a stock will decline</li></ul></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Investment_and_risk">Investment and risk</h2></div>
+<p>An investor may bear a <a href="/wiki/Financial_risk" title="Financial risk">risk</a> of loss of some or all of their <a href="/wiki/Financial_capital" title="Financial capital">capital</a> invested. Investment differs from <a href="/wiki/Arbitrage" title="Arbitrage">arbitrage</a>, in which <a href="/wiki/Profit_(accounting)" title="Profit (accounting)">profit</a> is generated without investing capital or bearing risk.
+</p><p><a href="/wiki/Saving" title="Saving">Savings</a> bear the (normally remote) risk that the financial provider may default.
+</p><p><a href="/wiki/Foreign_currency" class="mw-redirect" title="Foreign currency">Foreign currency</a> savings also bear <a href="/wiki/Foreign_exchange_risk" title="Foreign exchange risk">foreign exchange risk</a>: if the currency of a savings account differs from the account holder's home currency, then there is the risk that the exchange rate between the two currencies will move unfavourably so that the value of the savings account decreases, measured in the account holder's home currency.
+</p><p>Even investing in tangible assets like property has its risk. And similar to most risks, property buyers can seek to mitigate any potential risk by taking out mortgage and by borrowing at a lower loan to security ratio.
+</p><p>In contrast with savings, investments tend to carry more risk, in the form of both a wider variety of risk factors and a greater level of uncertainty.
+</p><p>Industry to industry volatility is more or less of a risk depending. In <a href="/wiki/Biotechnology" title="Biotechnology">biotechnology</a>, for example, investors look for big profits on companies that have small market capitalizations but can be worth hundreds of millions quite quickly. The risk is high because approximately 90% of biotechnology products researched do not make it to market due to regulations and the complex demands within pharmacology as the average prescription drug takes 10 years and US$2.5 billion worth of capital.<sup id="cite&#95;ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="History">History</h2></div>
+<p>Early forms of credit and trade-based lending appeared in ancient Mesopotamia, supporting commercial activity across the region. More formal regulation emerges in the Code of Hammurabi, compiled around 1754 BCE, which includes several provisions governing loans, collateral, maximum interest rates, and the rights of creditors and debtors—indicating the presence of structured, investment-like arrangements in ancient Babylon.<sup id="cite&#95;ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> 
+</p><p>In ancient Rome, financial intermediaries known as <i>argentarii</i> and <i>nummularii</i> provided credit, accepted deposits, facilitated commercial payments, and mediated currency exchange. Their activities demonstrate the existence of organized financial intermediation and early investment-related services within the Roman imperial economy.<sup id="cite&#95;ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>During the medieval period, merchant banking families in Italian city-states such as Florence, Genoa, and Venice developed early deposit, credit, and bill-of-exchange practices that supported expanding European and Mediterranean trade networks. These institutions laid the commercial and legal foundations for later financial markets.<sup id="cite&#95;ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>These early financial practices eventually contributed to the more structured investment systems that emerged in Europe during the early modern period. By the 17th century, the growth of global trade networks made investment activity increasingly recognizable in its modern form. Shipping ventures to Asia undertaken by Dutch, British, and French companies often required large pools of capital, encouraging shipowners to seek outside investors willing to finance long-distance voyages in exchange for a share of the profits when ships returned safely.<sup id="cite&#95;ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>A major development in this period was the founding of the Amsterdam Stock Exchange in 1602, often considered the world’s first modern securities exchange. It was created to support trading in shares of the Dutch East India Company (Vereenigde Oost-Indische Compagnie or VOC), the first company to issue publicly traded stock. Amsterdam’s financial infrastructure—including an Exchange Bank to stabilize currency payments and merchant banks that facilitated regulated trade—helped establish the city as a global center of commerce and capital during the 17th century.<sup id="cite&#95;ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The origins of pooled investment vehicles trace back to the late 18th century in the Netherlands, when the first known investment trust — created by Dutch businessman Adriaan van Ketwich — allowed small investors to combine capital, thereby diversifying risk across a portfolio of assets.<sup id="cite&#95;ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>In the United States, the origins of the stock market trace back to May 17, 1792, when 24 brokers signed the Buttonwood Agreement, establishing rules for trading securities among trusted parties. A few years earlier, the Compromise of 1790 had allowed Alexander Hamilton to consolidate Revolutionary War debts through federally issued bonds, effectively creating the first widely traded securities market in America.<sup id="cite&#95;ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The New York Stock and Exchange Board—later renamed the New York Stock Exchange (NYSE)—was formally organized in 1817, meeting twice daily to trade a small list of stocks and bonds. The exchange grew rapidly over the 19th century, and by the end of the Civil War in 1865, more than 300 securities were being actively traded, marking the emergence of a mature and organized American securities market.<sup id="cite&#95;ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-15" class="reference"><a href="#cite_note-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Investment_strategies">Investment strategies</h2></div>
+<div class="mw-heading mw-heading3"><h3 id="Value_investing">Value investing</h3></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1320445320" /><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Value_investing" title="Value investing">Value investing</a></div>
+<p>A value investor buys assets that they believe to be undervalued (and sells overvalued ones). To identify undervalued securities, a value investor uses analysis of the financial reports of the issuer to evaluate the security. Value investors employ accounting ratios, such as <a href="/wiki/Earnings_per_share" title="Earnings per share">earnings per share</a> and sales growth, to identify securities trading at prices below their worth.
+</p><p><a href="/wiki/Warren_Buffett" title="Warren Buffett">Warren Buffett</a> and <a href="/wiki/Benjamin_Graham" title="Benjamin Graham">Benjamin Graham</a> are notable examples of value investors. Graham and <a href="/wiki/David_Dodd" title="David Dodd">Dodd's</a> seminal work, <a href="/wiki/Security_Analysis_(book)" title="Security Analysis (book)"><i>Security Analysis</i></a>, was written in the wake of the <a href="/wiki/Wall_Street_Crash_of_1929" class="mw-redirect" title="Wall Street Crash of 1929">Wall Street Crash of 1929</a>.<sup id="cite&#95;ref-16" class="reference"><a href="#cite_note-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The <a href="/wiki/Price_to_earnings_ratio" class="mw-redirect" title="Price to earnings ratio">price to earnings ratio</a> (P/E), or earnings multiple, is a particularly significant and recognized fundamental ratio, with a function of dividing the share price of the stock, by its earnings per share. This will provide the value representing the sum investors are prepared to expend for each dollar of company earnings. This ratio is an important aspect, due to its capacity as measurement for the comparison of valuations of various companies. A stock with a lower P/E ratio will cost less per share than one with a higher P/E, taking into account the same level of <a href="/wiki/Financial" class="mw-redirect" title="Financial">financial</a> performance; therefore, it essentially means a low P/E is the preferred option.<sup id="cite&#95;ref-17" class="reference"><a href="#cite_note-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>An instance in which the price to earnings ratio has a lesser significance is when companies in different industries are compared. For example, although it is reasonable for a telecommunications stock to show a P/E in the low teens, in the case of hi-tech stock, a P/E in the 40s range is not unusual. When making comparisons, the P/E ratio can give you a refined view of a particular stock valuation.
+</p><p>For investors paying for each dollar of a company's earnings, the P/E ratio is a significant indicator, but the <a href="/wiki/Price-to-book_ratio" class="mw-redirect" title="Price-to-book ratio">price-to-book ratio</a> (P/B) is also a reliable indication of how much investors are willing to spend on each dollar of company assets. In the process of the P/B ratio, the share price of a stock is divided by its net assets; any intangibles, such as goodwill, are not taken into account. It is a crucial factor of the price-to-book ratio, due to it indicating the actual payment for tangible assets and not the more difficult valuation of intangibles. Accordingly, the P/B could be considered a comparatively conservative metric.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Growth_investing">Growth investing</h3></div>
+<p><a href="/wiki/Growth_investing" title="Growth investing">Growth investors</a> seek investments they believe are likely to have higher earnings or greater value in the future. To identify such <a href="/wiki/Stock" title="Stock">stocks</a>, growth investors often evaluate measures of current stock value as well as predictions of future financial performance.<sup id="cite&#95;ref-:1&#95;18-0" class="reference"><a href="#cite_note-:1-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup> Growth investors seek profits through <a href="/wiki/Capital_appreciation" title="Capital appreciation">capital appreciation</a> – the gains earned when a stock is sold at a higher price than what it was purchased for. The <a href="/wiki/Price%E2%80%93earnings_ratio" title="Price–earnings ratio">price-to-earnings (P/E)</a> multiple is also used for this type of investment; growth stock are likely to have a P/E higher than others in its industry.<sup id="cite&#95;ref-19" class="reference"><a href="#cite_note-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup> According to Investopedia author Troy Segal and U.S. Department of State Fulbright fintech research awardee Julius Mansa, growth investing is best suited for investors who prefer relatively shorter investment horizons, higher risks, and are not seeking immediate cash flow through dividends.<sup id="cite&#95;ref-:1&#95;18-1" class="reference"><a href="#cite_note-:1-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Some investors attribute the introduction of the growth investing strategy to investment banker Thomas Rowe Price Jr., who tested and popularized the method in 1950 by introducing his <a href="/wiki/Mutual_fund" title="Mutual fund">mutual fund</a>, the T. Rowe Price Growth Stock Fund. Price asserted that investors could reap high returns by "investing in companies that are well-managed in fertile fields."<sup id="cite&#95;ref-20" class="reference"><a href="#cite_note-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>A new form of investing that seems to have caught the attention of investors is Venture Capital. Venture Capital is independently managed dedicated pools of capital that focus on equity or equity-linked investments in privately held, high growth companies.<sup id="cite&#95;ref-21" class="reference"><a href="#cite_note-21"><span class="cite-bracket">&#91;</span>21<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Momentum_investing">Momentum investing</h3></div>
+<p>Momentum investors generally seek to buy stocks that are currently experiencing a short-term uptrend, and they usually sell them once this momentum starts to decrease. Stocks or <a href="/wiki/Security_(finance)" title="Security (finance)">securities</a> purchased for momentum investing are often characterized by demonstrating consistently high returns for the past three to twelve months.<sup id="cite&#95;ref-22" class="reference"><a href="#cite_note-22"><span class="cite-bracket">&#91;</span>22<span class="cite-bracket">&#93;</span></a></sup> However, in a <a href="/wiki/Bear_Market" class="mw-redirect" title="Bear Market">bear market</a>, momentum investing also involves short-selling securities of stocks that are experiencing a downward trend, because it is believed that these stocks will continue to decrease in value. Essentially, momentum investing generally relies on the principle that a consistently up-trending stock will continue to grow, while a consistently down-trending stock will continue to fall.
+</p><p>Economists and financial analysts have not reached a consensus on the effectiveness of using the momentum investing strategy. Rather than evaluating a company's operational performance, momentum investors instead utilize trend lines, moving averages, and the <a href="/wiki/Average_directional_movement_index" title="Average directional movement index">Average Directional Index (ADX)</a> to determine the existence and strength of trends.<sup id="cite&#95;ref-:02&#95;23-0" class="reference"><a href="#cite_note-:02-23"><span class="cite-bracket">&#91;</span>23<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Dollar_cost_averaging">Dollar cost averaging</h3></div>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:WikiGraphic.PNG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/WikiGraphic.PNG/250px-WikiGraphic.PNG" decoding="async" width="250" height="149" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/WikiGraphic.PNG/500px-WikiGraphic.PNG 1.5x" data-file-width="2081" data-file-height="1243" /></a><figcaption>Dollar cost averaging: If an individual invested $500 per month into the stock market for 40 years at a 10% annual return rate, they would have an ending balance of over $2.5 million.</figcaption></figure>
+<p><a href="/wiki/Dollar_cost_averaging" title="Dollar cost averaging">Dollar cost averaging</a> (DCA), also known in the UK as pound-cost averaging, is the process of consistently investing a certain amount of money across regular increments of time, and the method can be used in conjunction with value investing, growth investing, momentum investing, or other strategies. For example, an investor who practices dollar-cost averaging could choose to invest $200 a month for the next 3 years, regardless of the share price of their preferred stock(s), <a href="/wiki/Mutual_fund" title="Mutual fund">mutual funds</a>, or <a href="/wiki/Exchange-traded_fund" title="Exchange-traded fund">exchange-traded funds</a>.
+</p><p>Many investors believe that dollar-cost averaging helps minimize short-term volatility by spreading risk out across time intervals and avoiding market timing.<sup id="cite&#95;ref-:02&#95;23-1" class="reference"><a href="#cite_note-:02-23"><span class="cite-bracket">&#91;</span>23<span class="cite-bracket">&#93;</span></a></sup> Research also shows that DCA can help reduce the total average cost per share in an investment because the method enables the purchase of more shares when their price is lower, and less shares when the price is higher.<sup id="cite&#95;ref-:02&#95;23-2" class="reference"><a href="#cite_note-:02-23"><span class="cite-bracket">&#91;</span>23<span class="cite-bracket">&#93;</span></a></sup> However, dollar-cost averaging is also generally characterized by more brokerage fees, which could decrease an investor's overall returns.
+</p><p>The term "dollar-cost averaging" is believed to have first been coined in 1949 by economist and author Benjamin Graham in his book, <i><a href="/wiki/The_Intelligent_Investor" title="The Intelligent Investor">The Intelligent Investor</a>.</i> Graham asserted that investors that use DCA are "likely to end up with a satisfactory overall price for all [their] holdings."<sup id="cite&#95;ref-24" class="reference"><a href="#cite_note-24"><span class="cite-bracket">&#91;</span>24<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Micro-investing">Micro-investing</h3></div>
+<p><a href="/wiki/Micro-investing" title="Micro-investing">Micro-investing</a> is a type of investment strategy that is designed to make investing regular, accessible and affordable, especially for those who may not have a lot of money to invest or who are new to investing.<sup id="cite&#95;ref-25" class="reference"><a href="#cite_note-25"><span class="cite-bracket">&#91;</span>25<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-26" class="reference"><a href="#cite_note-26"><span class="cite-bracket">&#91;</span>26<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Intermediaries_and_collective_investments">Intermediaries and collective investments</h2></div>
+<p>Investments are often made indirectly through <a href="/wiki/Intermediary" title="Intermediary">intermediary</a> financial institutions. These intermediaries include <a href="/wiki/Pension_fund" title="Pension fund">pension funds</a>, <a href="/wiki/Bank" title="Bank">banks</a>, and <a href="/wiki/Insurance" title="Insurance">insurance</a> companies. They may pool money received from a number of individual end investors into funds such as <a href="/wiki/Investment_trust" title="Investment trust">investment trusts</a>, <a href="/wiki/Unit_trust" title="Unit trust">unit trusts</a>, and <a href="/wiki/SICAV" title="SICAV">SICAVs</a> to make large-scale investments. Each individual investor holds an indirect or direct claim on the assets purchased, subject to charges levied by the intermediary, which may be large and varied.
+</p><p>Approaches to investment sometimes referred to in marketing of collective investments include <a href="/wiki/Dollar_cost_averaging" title="Dollar cost averaging">dollar cost averaging</a> and <a href="/wiki/Market_timing" title="Market timing">market timing</a>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Investment_valuation">Investment valuation</h2></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1320445320" /><div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Valuation_(finance)" title="Valuation (finance)">Valuation (finance)</a> and <a href="/wiki/Business_valuation" title="Business valuation">Business valuation</a></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1320445320" /><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Valuation_using_discounted_cash_flows" title="Valuation using discounted cash flows">Valuation using discounted cash flows</a> and <a href="/wiki/Valuation_using_multiples" title="Valuation using multiples">Valuation using multiples</a></div>
+<p><a href="/wiki/Free_cash_flow" title="Free cash flow">Free cash flow</a> measures the cash a company generates which is available to its debt and equity investors, after allowing for reinvestment in <a href="/wiki/Working_capital" title="Working capital">working capital</a> and <a href="/wiki/Capital_expenditure" title="Capital expenditure">capital expenditure</a>. It is often used by investors as a way of measuring profitability of the company. High and rising free cash flow, therefore, tend to make a company more attractive to investors. Free cash flow can be attractive to investors because having high free cash flow can be a good indicator for high dividend or interest payments.<sup id="cite&#95;ref-27" class="reference"><a href="#cite_note-27"><span class="cite-bracket">&#91;</span>27<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The <a href="/wiki/Debt-to-equity_ratio" title="Debt-to-equity ratio">debt-to-equity ratio</a> is an indicator of <a href="/wiki/Capital_structure" title="Capital structure">capital structure</a>. Debt-to-equity ratio measures how much debt is used to finance a company, compared to equity. A high debt-to-equity ratio means that a company relies more on debt to finance operations, and is much riskier to investors.<sup id="cite&#95;ref-28" class="reference"><a href="#cite_note-28"><span class="cite-bracket">&#91;</span>28<span class="cite-bracket">&#93;</span></a></sup> A high proportion of <a href="/wiki/Debt" title="Debt">debt</a>, reflected in a high debt-to-equity ratio, tends to make a company's <a href="/wiki/Earnings" title="Earnings">earnings</a>, free cash flow, and ultimately the returns to its investors, riskier or <a href="/wiki/Volatility_(finance)" title="Volatility (finance)">volatile</a>. Investors compare a company's debt-to-equity ratio with those of other companies in the same industry, and examine trends in debt-to-equity ratios and free cashflow.
+</p><p>Earnings per share (EPS) is another way to evaluate a stock and its profitability. Earnings per share is measured by dividing the net income of a company by the total number of outstanding shares. A higher earnings per share is attractive to investors because it typically means the company is more profitable. EPS shows how much money a company makes for each share of its stocks.<sup id="cite&#95;ref-29" class="reference"><a href="#cite_note-29"><span class="cite-bracket">&#91;</span>29<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="See_also">See also</h2></div>
+<style data-mw-deduplicate="TemplateStyles:r1184024115">.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}</style><div class="div-col" style="column-width: 30em;">
+<ul><li><a href="/wiki/Capital_accumulation" title="Capital accumulation">Capital accumulation</a></li>
+<li><a href="/wiki/Capital_gains_tax" title="Capital gains tax">Capital gains tax</a></li>
+<li><a href="/wiki/Stranded_asset#Climate-related_asset_stranding" title="Stranded asset">Climate-related asset stranding</a></li>
+<li><a href="/wiki/Diversification_(finance)" title="Diversification (finance)">Diversification (finance)</a></li>
+<li><a href="/wiki/Divestment" title="Divestment">Divestment</a></li>
+<li><a href="/wiki/EBITDA" class="mw-redirect" title="EBITDA">EBITDA</a></li>
+<li><a href="/wiki/Foreign_direct_investment" title="Foreign direct investment">Foreign direct investment</a></li>
+<li><a href="/wiki/Fundamental_analysis" title="Fundamental analysis">Fundamental analysis</a></li>
+<li><a href="/wiki/Legal_Alpha" title="Legal Alpha">Legal Alpha</a></li>
+<li><a href="/wiki/List_of_countries_by_gross_fixed_investment_as_percentage_of_GDP" class="mw-redirect" title="List of countries by gross fixed investment as percentage of GDP">List of countries by gross fixed investment as percentage of GDP</a></li>
+<li><a href="/wiki/List_of_economics_topics" class="mw-redirect" title="List of economics topics">List of economics topics</a></li>
+<li><a href="/wiki/Market_sentiment" title="Market sentiment">Market sentiment</a></li>
+<li><a href="/wiki/Mortgage_investment_corporation" title="Mortgage investment corporation">Mortgage investment corporation</a></li>
+<li><a href="/wiki/Rate_of_return" title="Rate of return">Rate of return</a></li>
+<li><a href="/wiki/Socially_responsible_investing" title="Socially responsible investing">Socially responsible investing</a></li>
+<li><a href="/wiki/Specialized_investment_fund" title="Specialized investment fund">Specialized investment fund</a></li>
+<li><a href="/wiki/Time_value_of_money" title="Time value of money">Time value of money</a></li>
+<li><a href="/wiki/Time-weighted_return" title="Time-weighted return">Time-weighted return</a></li></ul>
+</div>
+<div class="mw-heading mw-heading2"><h2 id="References">References</h2></div>
+<style data-mw-deduplicate="TemplateStyles:r1327269900">.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}body.skin-vector-2022 .mw-parser-output .reflist-columns-2{column-width:27em}body.skin-vector-2022 .mw-parser-output .reflist-columns-3{column-width:22.5em}.mw-parser-output .references[data-mw-group=upper-alpha]{list-style-type:upper-alpha}.mw-parser-output .references[data-mw-group=upper-roman]{list-style-type:upper-roman}.mw-parser-output .references[data-mw-group=lower-alpha]{list-style-type:lower-alpha}.mw-parser-output .references[data-mw-group=lower-greek]{list-style-type:lower-greek}.mw-parser-output .references[data-mw-group=lower-roman]{list-style-type:lower-roman}.mw-parser-output div.reflist-liststyle-upper-alpha .references{list-style-type:upper-alpha}.mw-parser-output div.reflist-liststyle-upper-roman .references{list-style-type:upper-roman}.mw-parser-output div.reflist-liststyle-lower-alpha .references{list-style-type:lower-alpha}.mw-parser-output div.reflist-liststyle-lower-greek .references{list-style-type:lower-greek}.mw-parser-output div.reflist-liststyle-lower-roman .references{list-style-type:lower-roman}</style><div class="mw-references-wrap mw-references-columns reflist-columns-2"><ol class="references">
+<li id="cite&#95;note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1333433106">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#bf3c2c)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#bf3c2c)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</style><cite id="CITEREFTrue&#95;Tamplin" class="citation web cs1">True Tamplin. <a rel="nofollow" class="external text" href="https://www.financestrategists.com/wealth-management/investments/">"Investments"</a>. <i>Finance Strategists</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2025-05-01</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Finance+Strategists&amp;rft.atitle=Investments&amp;rft.au=True+Tamplin&amp;rft&#95;id=https%3A%2F%2Fwww.financestrategists.com%2Fwealth-management%2Finvestments%2F&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFltd" class="citation web cs1">ltd, Research and Markets. <a rel="nofollow" class="external text" href="https://www.researchandmarkets.com/reports/5240719/ai-based-drug-discovery-market-focus-on-deep">"AI-based Drug Discovery Market: Focus on Deep Learning and Machine Learning, 2020-2030"</a>. <i>www.researchandmarkets.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-12-15</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.researchandmarkets.com&amp;rft.atitle=AI-based+Drug+Discovery+Market%3A+Focus+on+Deep+Learning+and+Machine+Learning%2C+2020-2030&amp;rft.aulast=ltd&amp;rft.aufirst=Research+and+Markets&amp;rft&#95;id=https%3A%2F%2Fwww.researchandmarkets.com%2Freports%2F5240719%2Fai-based-drug-discovery-market-focus-on-deep&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://avalon.law.yale.edu/ancient/hamframe.asp">"The Code of Hammurabi"</a>. Yale Law School – The Avalon Project<span class="reference-accessdate">. Retrieved <span class="nowrap">2025-11-29</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Code+of+Hammurabi&amp;rft.pub=Yale+Law+School+%E2%80%93+The+Avalon+Project&amp;rft&#95;id=https%3A%2F%2Favalon.law.yale.edu%2Fancient%2Fhamframe.asp&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFHudson2004" class="citation book cs1">Hudson, Michael (2004). <i>The Origins of Money and Finance: From the Stone Age to the Present</i>. ISI Press. p.&#160;42.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Origins+of+Money+and+Finance%3A+From+the+Stone+Age+to+the+Present&amp;rft.pages=42&amp;rft.pub=ISI+Press&amp;rft.date=2004&amp;rft.aulast=Hudson&amp;rft.aufirst=Michael&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFTemin2013" class="citation book cs1">Temin, Peter (2013). <i>The Roman Market Economy</i>. Princeton University Press. pp.&#160;<span class="nowrap">125–</span>129.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Roman+Market+Economy&amp;rft.pages=125-129&amp;rft.pub=Princeton+University+Press&amp;rft.date=2013&amp;rft.aulast=Temin&amp;rft.aufirst=Peter&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFLane1966" class="citation book cs1">Lane, Frederic C. (1966). <i>Venice and History: The Collected Papers of Frederic C. Lane</i>. Johns Hopkins University Press. pp.&#160;<span class="nowrap">185–</span>203.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Venice+and+History%3A+The+Collected+Papers+of+Frederic+C.+Lane&amp;rft.pages=185-203&amp;rft.pub=Johns+Hopkins+University+Press&amp;rft.date=1966&amp;rft.aulast=Lane&amp;rft.aufirst=Frederic+C.&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.leamingtonifa.co.uk/financial-guides/history-of-investing/">"Evolution of Investment: A Deep Dive into the History of Investing"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2025-05-01</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Evolution+of+Investment%3A+A+Deep+Dive+into+the+History+of+Investing&amp;rft&#95;id=https%3A%2F%2Fwww.leamingtonifa.co.uk%2Ffinancial-guides%2Fhistory-of-investing%2F&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFNeal1990" class="citation book cs1">Neal, Larry (1990). <i>The Rise of Financial Capitalism: International Capital Markets in the Age of Reason</i>. Cambridge University Press. pp.&#160;<span class="nowrap">33–</span>41.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Rise+of+Financial+Capitalism%3A+International+Capital+Markets+in+the+Age+of+Reason&amp;rft.pages=33-41&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1990&amp;rft.aulast=Neal&amp;rft.aufirst=Larry&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.beursgeschiedenis.nl/en/the-story/">"400 years: The Story"</a>. 2017-01-31<span class="reference-accessdate">. Retrieved <span class="nowrap">2025-05-01</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=400+years%3A+The+Story&amp;rft.date=2017-01-31&amp;rft&#95;id=https%3A%2F%2Fwww.beursgeschiedenis.nl%2Fen%2Fthe-story%2F&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFGelderblom2013" class="citation book cs1">Gelderblom, Oscar (2013). <i>Cities of Commerce: The Institutional Foundations of International Trade in the Low Countries, 1250–1650</i>. Princeton University Press. pp.&#160;<span class="nowrap">212–</span>220.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Cities+of+Commerce%3A+The+Institutional+Foundations+of+International+Trade+in+the+Low+Countries%2C+1250%E2%80%931650&amp;rft.pages=212-220&amp;rft.pub=Princeton+University+Press&amp;rft.date=2013&amp;rft.aulast=Gelderblom&amp;rft.aufirst=Oscar&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFRouwenhorst2004" class="citation journal cs1">Rouwenhorst, K. Geert (2004). <a rel="nofollow" class="external text" href="https://ssrn.com/abstract=636146">"The Origins of Mutual Funds"</a>. <i>Of Interest and Enterprise: The History of Financial Innovation</i>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Of+Interest+and+Enterprise%3A+The+History+of+Financial+Innovation&amp;rft.atitle=The+Origins+of+Mutual+Funds&amp;rft.date=2004&amp;rft.aulast=Rouwenhorst&amp;rft.aufirst=K.+Geert&amp;rft&#95;id=https%3A%2F%2Fssrn.com%2Fabstract%3D636146&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.investopedia.com/terms/b/buttonwoodagreement.asp">"Buttonwood Agreement"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2025-05-01</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Buttonwood+Agreement&amp;rft&#95;id=https%3A%2F%2Fwww.investopedia.com%2Fterms%2Fb%2Fbuttonwoodagreement.asp&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFCowan1961" class="citation book cs1">Cowan, Ruth Schwartz (1961). <i>A History of American Economic Life</i>. Macmillan. pp.&#160;<span class="nowrap">315–</span>316.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+History+of+American+Economic+Life&amp;rft.pages=315-316&amp;rft.pub=Macmillan&amp;rft.date=1961&amp;rft.aulast=Cowan&amp;rft.aufirst=Ruth+Schwartz&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.nyse.com/history-of-nyse">"The History of the NYSE"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2025-05-01</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+History+of+the+NYSE&amp;rft&#95;id=https%3A%2F%2Fwww.nyse.com%2Fhistory-of-nyse&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFWernerSmith,&#95;Steven&#95;T.1991" class="citation book cs1">Werner, Walter; Smith, Steven T. (1991). <i>Wall Street: A History</i>. Columbia University Press. pp.&#160;<span class="nowrap">53–</span>58.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Wall+Street%3A+A+History&amp;rft.pages=53-58&amp;rft.pub=Columbia+University+Press&amp;rft.date=1991&amp;rft.aulast=Werner&amp;rft.aufirst=Walter&amp;rft.au=Smith%2C+Steven+T.&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFGrahamDodd2002" class="citation book cs1">Graham, Benjamin; Dodd, David (2002-10-31). <i>Security Analysis: The Classic 1940 Edition</i> (2&#160;ed.). New York; London: McGraw-Hill Education. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-07-141228-5" title="Special:BookSources/978-0-07-141228-5"><bdi>978-0-07-141228-5</bdi></a>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Security+Analysis%3A+The+Classic+1940+Edition&amp;rft.place=New+York%3B+London&amp;rft.edition=2&amp;rft.pub=McGraw-Hill+Education&amp;rft.date=2002-10-31&amp;rft.isbn=978-0-07-141228-5&amp;rft.aulast=Graham&amp;rft.aufirst=Benjamin&amp;rft.au=Dodd%2C+David&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.investopedia.com/terms/p/price-earningsratio.asp">"Price-Earnings Ratio - P/E Ratio"</a>. <i>Investopedia</i>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Investopedia&amp;rft.atitle=Price-Earnings+Ratio+-+P%2FE+Ratio&amp;rft&#95;id=http%3A%2F%2Fwww.investopedia.com%2Fterms%2Fp%2Fprice-earningsratio.asp&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-:1-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.investopedia.com/terms/g/growthinvesting.asp">"Is Growth Investing the Right Money-Making Method for You?"</a>. <i>Investopedia</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2022-10-05</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Investopedia&amp;rft.atitle=Is+Growth+Investing+the+Right+Money-Making+Method+for+You%3F&amp;rft&#95;id=https%3A%2F%2Fwww.investopedia.com%2Fterms%2Fg%2Fgrowthinvesting.asp&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFChandler" class="citation web cs1">Chandler, Simon. <a rel="nofollow" class="external text" href="https://www.businessinsider.com/personal-finance/what-is-a-growth-stock">"A growth stock is a company expected to rise faster than the overall market, offering bigger gains for investors who don't mind risk"</a>. <i>Business Insider</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2022-10-05</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Business+Insider&amp;rft.atitle=A+growth+stock+is+a+company+expected+to+rise+faster+than+the+overall+market%2C+offering+bigger+gains+for+investors+who+don%27t+mind+risk&amp;rft.aulast=Chandler&amp;rft.aufirst=Simon&amp;rft&#95;id=https%3A%2F%2Fwww.businessinsider.com%2Fpersonal-finance%2Fwhat-is-a-growth-stock&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFChanLakonishok2004" class="citation journal cs1">Chan, Louis K.C.; Lakonishok, Josef (January 2004). <span class="id-lock-subscription" title="Paid subscription required"><a rel="nofollow" class="external text" href="https://www.tandfonline.com/doi/full/10.2469/faj.v60.n1.2593">"Value and Growth Investing: Review and Update"</a></span>. <i>Financial Analysts Journal</i>. <b>60</b> (1): <span class="nowrap">71–</span>86. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.2469%2Ffaj.v60.n1.2593">10.2469/faj.v60.n1.2593</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://search.worldcat.org/issn/0015-198X">0015-198X</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:5666307">5666307</a>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Financial+Analysts+Journal&amp;rft.atitle=Value+and+Growth+Investing%3A+Review+and+Update&amp;rft.volume=60&amp;rft.issue=1&amp;rft.pages=71-86&amp;rft.date=2004-01&amp;rft&#95;id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A5666307%23id-name%3DS2CID&amp;rft.issn=0015-198X&amp;rft&#95;id=info%3Adoi%2F10.2469%2Ffaj.v60.n1.2593&amp;rft.aulast=Chan&amp;rft.aufirst=Louis+K.C.&amp;rft.au=Lakonishok%2C+Josef&amp;rft&#95;id=https%3A%2F%2Fwww.tandfonline.com%2Fdoi%2Ffull%2F10.2469%2Ffaj.v60.n1.2593&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFAvnimelechTeubal2006" class="citation journal cs1">Avnimelech, Gil; Teubal, Morris (2006-12-01). <span class="id-lock-subscription" title="Paid subscription required"><a rel="nofollow" class="external text" href="https://www.sciencedirect.com/science/article/pii/S004873330600151X">"Creating venture capital industries that co-evolve with high tech: Insights from an extended industry life cycle perspective of the Israeli experience"</a></span>. <i>Research Policy</i>. Triple helix Indicators of Knowledge-Based Innovation Systems. <b>35</b> (10): <span class="nowrap">1477–</span>1498. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.respol.2006.09.017">10.1016/j.respol.2006.09.017</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://search.worldcat.org/issn/0048-7333">0048-7333</a>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Research+Policy&amp;rft.atitle=Creating+venture+capital+industries+that+co-evolve+with+high+tech%3A+Insights+from+an+extended+industry+life+cycle+perspective+of+the+Israeli+experience&amp;rft.volume=35&amp;rft.issue=10&amp;rft.pages=1477-1498&amp;rft.date=2006-12-01&amp;rft&#95;id=info%3Adoi%2F10.1016%2Fj.respol.2006.09.017&amp;rft.issn=0048-7333&amp;rft.aulast=Avnimelech&amp;rft.aufirst=Gil&amp;rft.au=Teubal%2C+Morris&amp;rft&#95;id=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS004873330600151X&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.thebalancemoney.com/what-is-momentum-investing-4587982">"Momentum Investing"</a>. <i>The Balance</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2022-10-05</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Balance&amp;rft.atitle=Momentum+Investing&amp;rft&#95;id=https%3A%2F%2Fwww.thebalancemoney.com%2Fwhat-is-momentum-investing-4587982&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-:02-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-:02_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:02_23-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:02_23-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.investopedia.com/investing/investing-strategies/">"Investment Strategies to Learn Before Trading"</a>. <i>Investopedia</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2022-10-05</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Investopedia&amp;rft.atitle=Investment+Strategies+to+Learn+Before+Trading&amp;rft&#95;id=https%3A%2F%2Fwww.investopedia.com%2Finvesting%2Finvesting-strategies%2F&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFGraham,&#95;Benjamin2003" class="citation book cs1">Graham, Benjamin (2003). <i>The intelligent investor: a book of practical counsel</i>. HarperBusiness Essentials. <a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a>&#160;<a rel="nofollow" class="external text" href="https://search.worldcat.org/oclc/1035152456">1035152456</a>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+intelligent+investor%3A+a+book+of+practical+counsel&amp;rft.pub=HarperBusiness+Essentials&amp;rft.date=2003&amp;rft&#95;id=info%3Aoclcnum%2F1035152456&amp;rft.au=Graham%2C+Benjamin&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://money.cnn.com/magazines/fsb/fsb_archive/2001/05/01/302520/">"The Innovators – Meet the 65 Companies and Their Owners Who Have Conjured Up the Latest Wave of Products, Services, and Technologies"</a>. <i>money.cnn.com</i>. May 1, 2001<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-04-20</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=money.cnn.com&amp;rft.atitle=The+Innovators+%E2%80%93+Meet+the+65+Companies+and+Their+Owners+Who+Have+Conjured+Up+the+Latest+Wave+of+Products%2C+Services%2C+and+Technologies&amp;rft.date=2001-05-01&amp;rft&#95;id=https%3A%2F%2Fmoney.cnn.com%2Fmagazines%2Ffsb%2Ffsb&#95;archive%2F2001%2F05%2F01%2F302520%2F&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFLucchetti1999" class="citation web cs1">Lucchetti, Aaron (22 December 1999). <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/SB945730607441550739">"E-Tailers Allow Buyers to Add Fund Investments to Carts"</a>. <i>WSJ</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2023-04-20</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=WSJ&amp;rft.atitle=E-Tailers+Allow+Buyers+to+Add+Fund+Investments+to+Carts&amp;rft.date=1999-12-22&amp;rft.aulast=Lucchetti&amp;rft.aufirst=Aaron&amp;rft&#95;id=https%3A%2F%2Fwww.wsj.com%2Farticles%2FSB945730607441550739&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.investopedia.com/terms/f/freecashflow.asp">"Free Cash Flow (FCF): How to Calculate and Interpret It"</a>. <i>Investopedia</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2025-05-01</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Investopedia&amp;rft.atitle=Free+Cash+Flow+%28FCF%29%3A+How+to+Calculate+and+Interpret+It&amp;rft&#95;id=https%3A%2F%2Fwww.investopedia.com%2Fterms%2Ff%2Ffreecashflow.asp&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFAlmeida2022" class="citation web cs1">Almeida, Andrew (December 12, 2022). <a rel="nofollow" class="external text" href="https://stockanalysis.com/term/debt-to-equity-ratio/">"Debt-to-Equity (D/E) Ratio: Meaning and Formula"</a>. <i>StockAnalysis</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2025-05-01</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=StockAnalysis&amp;rft.atitle=Debt-to-Equity+%28D%2FE%29+Ratio%3A+Meaning+and+Formula&amp;rft.date=2022-12-12&amp;rft.aulast=Almeida&amp;rft.aufirst=Andrew&amp;rft&#95;id=https%3A%2F%2Fstockanalysis.com%2Fterm%2Fdebt-to-equity-ratio%2F&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.investopedia.com/terms/e/eps.asp#:~:text=Earnings%20per%20share%20(EPS)%20is%20a%20company&#39;s%20net,a%20widely%20used%20metric%20for%20estimating%20corporate%20value.">"Earnings Per Share (EPS): What It Means and How to Calculate It"</a>. <i>Investopedia</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2025-05-01</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Investopedia&amp;rft.atitle=Earnings+Per+Share+%28EPS%29%3A+What+It+Means+and+How+to+Calculate+It&amp;rft&#95;id=https%3A%2F%2Fwww.investopedia.com%2Fterms%2Fe%2Feps.asp%23%3A~%3Atext%3DEarnings%2520per%2520share%2520%28EPS%29%2520is%2520a%2520company%27s%2520net%2Ca%2520widely%2520used%2520metric%2520for%2520estimating%2520corporate%2520value.&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AInvestment" class="Z3988"></span></span>
+</li>
+</ol></div>
+<div class="mw-heading mw-heading2"><h2 id="External_links">External links</h2></div>
+<style data-mw-deduplicate="TemplateStyles:r1314755338">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:var(--background-color-interactive-subtle,#f8f9fa);color:inherit;display:flow-root}.mw-parser-output .infobox .side-box{font-size:100%}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1;min-width:0}}@media(min-width:640px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><style data-mw-deduplicate="TemplateStyles:r1311551236">@media print{body.ns-0 .mw-parser-output .sistersitebox{display:none!important}}@media screen{html.skin-theme-clientpref-night .mw-parser-output .sistersitebox img[src*="Wiktionary-logo-en-v2.svg"]{filter:invert(1)brightness(55%)contrast(250%)hue-rotate(180deg)}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .sistersitebox img[src*="Wiktionary-logo-en-v2.svg"]{filter:invert(1)brightness(55%)contrast(250%)hue-rotate(180deg)}}</style><div class="side-box side-box-right plainlinks sistersitebox"><style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style>
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><a href="/wiki/File:Wikiquote-logo.svg" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/40px-Wikiquote-logo.svg.png" decoding="async" width="34" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/60px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/120px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></span></div>
+<div class="side-box-text plainlist">Wikiquote has quotations related to <i><b><a href="https://en.wikiquote.org/wiki/Special:Search/Investment" class="extiw" title="q:Special:Search/Investment">Investment</a></b></i>.</div></div>
+</div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1314755338" /><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1311551236" /><div class="side-box side-box-right plainlinks sistersitebox"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409" />
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><a href="/wiki/File:Commons-logo.svg" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png 1.5x" data-file-width="1024" data-file-height="1376" /></a></span></div>
+<div class="side-box-text plainlist">Wikimedia Commons has media related to <span style="font-weight: bold; font-style: italic;"><a href="https://commons.wikimedia.org/wiki/Category:Investments" class="extiw" title="commons:Category:Investments">Investments</a></span>.</div></div>
+</div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1314755338" /><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1311551236" /><div class="side-box side-box-right plainlinks sistersitebox"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409" />
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><a href="/wiki/File:Wikisource-logo.svg" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/40px-Wikisource-logo.svg.png" decoding="async" width="38" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/60px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/120px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></span></div>
+<div class="side-box-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has the text of <i><a href="https://en.wikisource.org/wiki/The_New_Student%27s_Reference_Work" class="extiw" title="s:The New Student&#39;s Reference Work">The New Student's Reference Work</a></i> article  "<b><a href="https://en.wikisource.org/wiki/The_New_Student%27s_Reference_Work/Investments" class="extiw" title="s:The New Student&#39;s Reference Work/Investments">Investments</a></b>".</div></div>
+</div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1314755338" /><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1311551236" /><div class="side-box side-box-right plainlinks sistersitebox"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409" />
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><a href="/wiki/File:Wiktionary-logo-en-v2.svg" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/120px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span></div>
+<div class="side-box-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/Special:Search/investment" class="extiw" title="wiktionary:Special:Search/investment">investment</a></b></i> in Wiktionary, the free dictionary.</div></div>
+</div>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1333133064">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:"\a0 · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1314944253">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd;color:inherit}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf;color:inherit}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf;color:inherit}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff;color:inherit}.mw-parser-output .navbox-even{background-color:#f7f7f7;color:inherit}.mw-parser-output .navbox-odd{background-color:transparent;color:inherit}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}body.skin--responsive .mw-parser-output .navbox-image img{max-width:none!important}@media print{body.ns-0 .mw-parser-output .navbox{display:none!important}}</style><style data-mw-deduplicate="TemplateStyles:r1066933788">.mw-parser-output .excerpt-hat .mw-editsection-like{font-style:normal}</style></div><div role="navigation" class="navbox" aria-labelledby="Economics6871" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333133064" /><style data-mw-deduplicate="TemplateStyles:r1239400231">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Economics" title="Template:Economics"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Economics" title="Template talk:Economics"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Economics" title="Special:EditPage/Template:Economics"><abbr title="Edit this template">e</abbr></a></li></ul></div><div id="Economics6871" style="font-size:114%;margin:0 4em"><a href="/wiki/Economics" title="Economics">Economics</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economics#Theoretical_research" title="Economics">Theoretical</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Microeconomics" title="Microeconomics">Microeconomics</a>
+<ul><li><a href="/wiki/Decision_theory" title="Decision theory">Decision theory</a></li>
+<li><a href="/wiki/Price_theory" class="mw-redirect" title="Price theory">Price theory</a></li>
+<li><a href="/wiki/Game_theory" title="Game theory">Game theory</a></li>
+<li><a href="/wiki/Contract_theory" title="Contract theory">Contract theory</a></li>
+<li><a href="/wiki/Mechanism_design" title="Mechanism design">Mechanism design</a></li></ul></li>
+<li><a href="/wiki/Macroeconomics" title="Macroeconomics">Macroeconomics</a></li>
+<li><a href="/wiki/Mathematical_economics" title="Mathematical economics">Mathematical economics</a></li>
+<li><a href="/wiki/Complexity_economics" title="Complexity economics">Complexity economics</a></li>
+<li><a href="/wiki/Computational_economics" title="Computational economics">Computational economics</a>
+<ul><li><a href="/wiki/Agent-based_computational_economics" title="Agent-based computational economics">Agent-based computational economics</a></li></ul></li>
+<li><a href="/wiki/Behavioral_economics" title="Behavioral economics">Behavioral economics</a></li>
+<li><a href="/wiki/Pluralism_in_economics" title="Pluralism in economics">Pluralism in economics</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economics#Empirical_research" title="Economics">Empirical</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Econometrics" title="Econometrics">Econometrics</a>
+<ul><li><a href="/wiki/Economic_statistics" title="Economic statistics">Economic statistics</a></li></ul></li>
+<li><a href="/wiki/Experimental_economics" title="Experimental economics">Experimental economics</a></li>
+<li><a href="/wiki/Economic_history" title="Economic history">Economic history</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Applied_economics" title="Applied economics">Applied</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<div class="excerpt-block"><div class="excerpt">
+<ul><li><a href="/wiki/Agricultural_economics" title="Agricultural economics">Agriculture</a></li>
+<li><a href="/wiki/Business_economics" title="Business economics">Business</a></li>
+<li><a href="/wiki/Cultural_economics" title="Cultural economics">Cultural</a></li>
+<li><a href="/wiki/Demographic_economics" title="Demographic economics">Demographic</a></li>
+<li><a href="/wiki/Development_economics" title="Development economics">Development</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological</a></li>
+<li><a href="/wiki/Education_economics" title="Education economics">Education</a></li>
+<li><a href="/wiki/Engineering_economics" title="Engineering economics">Engineering</a></li>
+<li><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental</a></li>
+<li><a href="/wiki/Evolutionary_economics" title="Evolutionary economics">Evolutionary</a></li>
+<li><a href="/wiki/Financial_economics" title="Financial economics">Financial</a></li>
+<li><a href="/wiki/Economic_geography" title="Economic geography">Geographic</a></li>
+<li><a href="/wiki/Happiness_economics" title="Happiness economics">Happiness</a></li>
+<li><a href="/wiki/Health_economics" title="Health economics">Health</a></li>
+<li><a href="/wiki/Economic_history" title="Economic history">History</a></li>
+<li><a href="/wiki/Information_economics" title="Information economics">Information</a></li>
+<li><a href="/wiki/Infrastructure_and_economics" title="Infrastructure and economics">Infrastructure</a></li>
+<li><a href="/wiki/Institutional_economics" title="Institutional economics">Institutions</a></li>
+<li><a href="/wiki/Labour_economics" title="Labour economics">Labour</a></li>
+<li><a href="/wiki/Law_and_economics" title="Law and economics">Law</a></li>
+<li><a href="/wiki/Managerial_economics" title="Managerial economics">Management</a></li>
+<li><a href="/wiki/Non-monetary_economy" title="Non-monetary economy">Non-monetary</a></li>
+<li><a href="/wiki/Organizational_economics" title="Organizational economics">Organization</a></li>
+<li><a href="/wiki/Economics_of_participation" title="Economics of participation">Participation</a></li>
+<li><a href="/wiki/Personnel_economics" title="Personnel economics">Personnel</a></li>
+<li><a href="/wiki/Economic_planning" title="Economic planning">Planning</a></li>
+<li><a href="/wiki/Economic_policy" title="Economic policy">Policy</a></li>
+<li><a href="/wiki/Public_economics" title="Public economics">Public sector</a></li>
+<li><a href="/wiki/Public_choice" title="Public choice">Public choice</a></li>
+<li><a href="/wiki/Social_choice" class="mw-redirect" title="Social choice">Social choice</a></li>
+<li><a href="/wiki/Regional_economics" title="Regional economics">Regional</a></li>
+<li><a href="/wiki/Regulatory_economics" title="Regulatory economics">Regulatory</a></li>
+<li><a href="/wiki/Natural_resource_economics" title="Natural resource economics">Resources</a></li>
+<li><a href="/wiki/Rural_economics" title="Rural economics">Rural</a></li>
+<li><a href="/wiki/Service_economy" title="Service economy">Service</a></li>
+<li><a href="/wiki/Transport_economics" title="Transport economics">Transport</a></li>
+<li><a href="/wiki/Urban_economics" title="Urban economics">Urban</a></li>
+<li><a href="/wiki/Welfare_economics" title="Welfare economics">Welfare</a></li></ul>
+</div></div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;"><a href="/wiki/Schools_of_economic_thought" title="Schools of economic thought">Schools</a><br />(<a href="/wiki/History_of_economic_thought" title="History of economic thought">history</a>)<br /></div></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Attention_economy" title="Attention economy">Attention</a></li>
+<li><a href="/wiki/Mainstream_economics" title="Mainstream economics">Mainstream</a></li>
+<li><a href="/wiki/Heterodox_economics" title="Heterodox economics">Heterodox</a></li>
+<li><a href="/wiki/American_School_(economics)" title="American School (economics)">American (National)</a></li>
+<li><a href="/wiki/Ancient_economic_thought" title="Ancient economic thought">Ancient thought</a></li>
+<li><a href="/wiki/Austrian_School" class="mw-redirect" title="Austrian School">Austrian</a></li>
+<li><a href="/wiki/Behavioral_economics" title="Behavioral economics">Behavioral</a></li>
+<li><a href="/wiki/Buddhist_economics" title="Buddhist economics">Buddhist</a></li>
+<li><a href="/wiki/Chartalism" title="Chartalism">Chartalism</a>
+<ul><li><a href="/wiki/Modern_monetary_theory" class="mw-redirect" title="Modern monetary theory">Modern monetary theory</a></li></ul></li>
+<li><a href="/wiki/Chicago_school_of_economics" title="Chicago school of economics">Chicago</a></li>
+<li><a href="/wiki/Classical_economics" title="Classical economics">Classical</a></li>
+<li><a href="/wiki/Critique_of_political_economy" title="Critique of political economy">Critique of political economy</a></li>
+<li><a href="/wiki/Economic_democracy" title="Economic democracy">Democratic</a></li>
+<li><a href="/wiki/Disequilibrium_macroeconomics" title="Disequilibrium macroeconomics">Disequilibrium</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological</a></li>
+<li><a href="/wiki/Evolutionary_economics" title="Evolutionary economics">Evolutionary</a></li>
+<li><a href="/wiki/Feminist_economics" title="Feminist economics">Feminist</a></li>
+<li><a href="/wiki/Freiwirtschaft" title="Freiwirtschaft">Freiwirtschaft</a></li>
+<li><a href="/wiki/Georgism" title="Georgism">Georgism</a></li>
+<li><a href="/wiki/Happiness_economics" title="Happiness economics">Happiness</a></li>
+<li><a href="/wiki/Historical_school_of_economics" title="Historical school of economics">Historical</a></li>
+<li><a href="/wiki/Humanistic_economics" title="Humanistic economics">Humanistic</a></li>
+<li><a href="/wiki/Institutional_economics" title="Institutional economics">Institutional</a></li>
+<li><a href="/wiki/Keynesian_economics" title="Keynesian economics">Keynesian</a>
+<ul><li><a href="/wiki/Neo-Keynesian_economics" class="mw-redirect" title="Neo-Keynesian economics">Neo-</a> (<a href="/wiki/Neoclassical_synthesis" title="Neoclassical synthesis">neoclassical–Keynesian synthesis</a>)</li>
+<li><a href="/wiki/New_Keynesian_economics" title="New Keynesian economics">New</a></li>
+<li><a href="/wiki/Post-Keynesian_economics" title="Post-Keynesian economics">Post-</a>
+<ul><li><a href="/wiki/Monetary_circuit_theory" title="Monetary circuit theory">Circuitism</a></li></ul></li></ul></li>
+<li><a href="/wiki/Malthusianism" title="Malthusianism">Malthusianism</a></li>
+<li><a href="/wiki/Marginalism" title="Marginalism">Marginalism</a></li>
+<li><a href="/wiki/Marxian_economics" title="Marxian economics">Marxian</a>
+<ul><li><a href="/wiki/Neo-Marxian_economics" class="mw-redirect" title="Neo-Marxian economics">Neo-</a></li></ul></li>
+<li><a href="/wiki/Mercantilism" title="Mercantilism">Mercantilism</a></li>
+<li><a href="/wiki/Mixed_economy" title="Mixed economy">Mixed</a></li>
+<li><a href="/wiki/Mutualism_(economic_theory)" title="Mutualism (economic theory)">Mutualism</a></li>
+<li><a href="/wiki/Neoclassical_economics" title="Neoclassical economics">Neoclassical</a>
+<ul><li><a href="/wiki/Lausanne_School" title="Lausanne School">Lausanne</a></li></ul></li>
+<li><a href="/wiki/New_classical_macroeconomics" title="New classical macroeconomics">New classical</a>
+<ul><li><a href="/wiki/Real_business-cycle_theory" title="Real business-cycle theory">Real business-cycle theory</a></li></ul></li>
+<li><a href="/wiki/New_institutional_economics" title="New institutional economics">New institutional</a></li>
+<li><a href="/wiki/Physiocracy" title="Physiocracy">Physiocracy</a></li>
+<li><a href="/wiki/Socialist_economics" title="Socialist economics">Socialist</a></li>
+<li><a href="/wiki/Stockholm_School_(economics)" title="Stockholm School (economics)">Stockholm</a></li>
+<li><a href="/wiki/Supply-side_economics" title="Supply-side economics">Supply-side</a></li>
+<li><a href="/wiki/Thermoeconomics" title="Thermoeconomics">Thermo</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;"><a href="/wiki/Economist" title="Economist">Economists</a><br /></div></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Bernard_de_Mandeville" class="mw-redirect" title="Bernard de Mandeville">de Mandeville</a></li>
+<li><a href="/wiki/Fran%C3%A7ois_Quesnay" title="François Quesnay">Quesnay</a></li>
+<li><a href="/wiki/Adam_Smith" title="Adam Smith">Smith</a></li>
+<li><a href="/wiki/Thomas_Robert_Malthus" title="Thomas Robert Malthus">Malthus</a></li>
+<li><a href="/wiki/Jean-Baptiste_Say" title="Jean-Baptiste Say">Say</a></li>
+<li><a href="/wiki/David_Ricardo" title="David Ricardo">Ricardo</a></li>
+<li><a href="/wiki/Johann_Heinrich_von_Th%C3%BCnen" title="Johann Heinrich von Thünen">von Thünen</a></li>
+<li><a href="/wiki/Friedrich_List" title="Friedrich List">List</a></li>
+<li><a href="/wiki/Fr%C3%A9d%C3%A9ric_Bastiat" title="Frédéric Bastiat">Bastiat</a></li>
+<li><a href="/wiki/Antoine_Augustin_Cournot" title="Antoine Augustin Cournot">Cournot</a></li>
+<li><a href="/wiki/John_Stuart_Mill" title="John Stuart Mill">Mill</a></li>
+<li><a href="/wiki/Hermann_Heinrich_Gossen" title="Hermann Heinrich Gossen">Gossen</a></li>
+<li><a href="/wiki/Karl_Marx" title="Karl Marx">Marx</a></li>
+<li><a href="/wiki/L%C3%A9on_Walras" title="Léon Walras">Walras</a></li>
+<li><a href="/wiki/William_Stanley_Jevons" title="William Stanley Jevons">Jevons</a></li>
+<li><a href="/wiki/Henry_George" title="Henry George">George</a></li>
+<li><a href="/wiki/Carl_Menger" title="Carl Menger">Menger</a></li>
+<li><a href="/wiki/Alfred_Marshall" title="Alfred Marshall">Marshall</a></li>
+<li><a href="/wiki/Francis_Ysidro_Edgeworth" title="Francis Ysidro Edgeworth">Edgeworth</a></li>
+<li><a href="/wiki/John_Bates_Clark" title="John Bates Clark">Clark</a></li>
+<li><a href="/wiki/Vilfredo_Pareto" title="Vilfredo Pareto">Pareto</a></li>
+<li><a href="/wiki/Eugen_von_B%C3%B6hm-Bawerk" title="Eugen von Böhm-Bawerk">von Böhm-Bawerk</a></li>
+<li><a href="/wiki/Friedrich_von_Wieser" title="Friedrich von Wieser">von Wieser</a></li>
+<li><a href="/wiki/Thorstein_Veblen" title="Thorstein Veblen">Veblen</a></li>
+<li><a href="/wiki/Silvio_Gesell" title="Silvio Gesell">Gesell</a></li>
+<li><a href="/wiki/Irving_Fisher" title="Irving Fisher">Fisher</a></li>
+<li><a href="/wiki/Arthur_Cecil_Pigou" title="Arthur Cecil Pigou">Pigou</a></li>
+<li><a href="/wiki/Eli_Heckscher" title="Eli Heckscher">Heckscher</a></li>
+<li><a href="/wiki/Ludwig_von_Mises" title="Ludwig von Mises">von Mises</a></li>
+<li><a href="/wiki/Joseph_Schumpeter" title="Joseph Schumpeter">Schumpeter</a></li>
+<li><a href="/wiki/John_Maynard_Keynes" title="John Maynard Keynes">Keynes</a></li>
+<li><a href="/wiki/Frank_Knight" title="Frank Knight">Knight</a></li>
+<li><a href="/wiki/Karl_Polanyi" title="Karl Polanyi">Polanyi</a></li>
+<li><a href="/wiki/Ragnar_Frisch" title="Ragnar Frisch">Frisch</a></li>
+<li><a href="/wiki/Piero_Sraffa" title="Piero Sraffa">Sraffa</a></li>
+<li><a href="/wiki/Gunnar_Myrdal" title="Gunnar Myrdal">Myrdal</a></li>
+<li><a href="/wiki/Friedrich_Hayek" title="Friedrich Hayek">Hayek</a></li>
+<li><a href="/wiki/Micha%C5%82_Kalecki" title="Michał Kalecki">Kalecki</a></li>
+<li><a href="/wiki/Wilhelm_R%C3%B6pke" title="Wilhelm Röpke">Röpke</a></li>
+<li><a href="/wiki/Simon_Kuznets" title="Simon Kuznets">Kuznets</a></li>
+<li><a href="/wiki/Jan_Tinbergen" title="Jan Tinbergen">Tinbergen</a></li>
+<li><a href="/wiki/Joan_Robinson" title="Joan Robinson">Robinson</a></li>
+<li><a href="/wiki/John_von_Neumann" title="John von Neumann">von Neumann</a></li>
+<li><a href="/wiki/John_Hicks" title="John Hicks">Hicks</a></li>
+<li><a href="/wiki/Oskar_R._Lange" title="Oskar R. Lange">Lange</a></li>
+<li><a href="/wiki/Wassily_Leontief" title="Wassily Leontief">Leontief</a></li>
+<li><a href="/wiki/John_Kenneth_Galbraith" title="John Kenneth Galbraith">Galbraith</a></li>
+<li><a href="/wiki/Tjalling_Koopmans" title="Tjalling Koopmans">Koopmans</a></li>
+<li><a href="/wiki/E._F._Schumacher" title="E. F. Schumacher">Schumacher</a></li>
+<li><a href="/wiki/Milton_Friedman" title="Milton Friedman">Friedman</a></li>
+<li><a href="/wiki/Paul_Samuelson" title="Paul Samuelson">Samuelson</a></li>
+<li><a href="/wiki/Herbert_A._Simon" title="Herbert A. Simon">Simon</a></li>
+<li><a href="/wiki/James_M._Buchanan" title="James M. Buchanan">Buchanan</a></li>
+<li><a href="/wiki/Kenneth_Arrow" title="Kenneth Arrow">Arrow</a></li>
+<li><a href="/wiki/William_Baumol" title="William Baumol">Baumol</a></li>
+<li><a href="/wiki/Robert_Solow" title="Robert Solow">Solow</a></li>
+<li><a href="/wiki/Murray_Rothbard" title="Murray Rothbard">Rothbard</a></li>
+<li><a href="/wiki/Alan_Greenspan" title="Alan Greenspan">Greenspan</a></li>
+<li><a href="/wiki/Thomas_Sowell" title="Thomas Sowell">Sowell</a></li>
+<li><a href="/wiki/Gary_Becker" title="Gary Becker">Becker</a></li>
+<li><a href="/wiki/Elinor_Ostrom" title="Elinor Ostrom">Ostrom</a></li>
+<li><a href="/wiki/Amartya_Sen" title="Amartya Sen">Sen</a></li>
+<li><a href="/wiki/Robert_Lucas_Jr." title="Robert Lucas Jr.">Lucas</a></li>
+<li><a href="/wiki/Joseph_Stiglitz" title="Joseph Stiglitz">Stiglitz</a></li>
+<li><a href="/wiki/Richard_Thaler" title="Richard Thaler">Thaler</a></li>
+<li><a href="/wiki/Hans-Hermann_Hoppe" title="Hans-Hermann Hoppe">Hoppe</a></li>
+<li><a href="/wiki/Paul_Krugman" title="Paul Krugman">Krugman</a></li>
+<li><a href="/wiki/Thomas_Piketty" title="Thomas Piketty">Piketty</a></li>
+<li><i><a href="/wiki/Category:Economists" title="Category:Economists">more</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Economics_lists" title="Category:Economics lists">Lists</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Glossary_of_economics" title="Glossary of economics">Glossary</a></li>
+<li><a href="/wiki/List_of_economists" title="List of economists">Economists</a></li>
+<li><a href="/wiki/List_of_important_publications_in_economics" class="mw-redirect" title="List of important publications in economics">Publications</a>&#160;(<a href="/wiki/List_of_economics_journals" title="List of economics journals">journals</a>)</li>
+<li><a href="/wiki/Schools_of_economic_thought" title="Schools of economic thought">Schools</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Economics" title="Category:Economics">Category</a></li>
+<li><a href="/wiki/Index_of_economics_articles" title="Index of economics articles">Index</a></li>
+<li><a href="/wiki/Category:Economics_lists" title="Category:Economics lists">Lists</a></li>
+<li><a href="/wiki/Outline_of_economics" title="Outline of economics">Outline</a></li>
+<li><a href="/wiki/List_of_important_publications_in_economics" class="mw-redirect" title="List of important publications in economics">Publications</a></li>
+<li><a href="/wiki/Portal:Business" title="Portal:Business">Business portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333133064" /><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1314944253" /><style data-mw-deduplicate="TemplateStyles:r1038841319">.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}</style><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1038841319" /><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1038841319" /><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1038841319" /><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1038841319" /></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority&#95;control&#95;databases&#95;frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit&#95;this&#95;at&#95;Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q4290#identifiers&amp;#124;class=noprint&amp;#124;Edit&#95;this&#95;at&#95;Wikidata2313" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority&#95;control&#95;databases&#95;frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit&#95;this&#95;at&#95;Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q4290#identifiers&amp;#124;class=noprint&amp;#124;Edit&#95;this&#95;at&#95;Wikidata2313" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q4290#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"><ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4027556-5">GND</a></span></li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em"><ul><li><span class="uid"><span class="rt-commentedText tooltip tooltip-dotted" title="Investments"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/sh85067715">United States</a></span></span></li><li><span class="uid"><span class="rt-commentedText tooltip tooltip-dotted" title="Investissements"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb11974118m">France</a></span></span></li><li><span class="uid"><span class="rt-commentedText tooltip tooltip-dotted" title="Investissements"><a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb11974118m">BnF data</a></span></span></li><li><span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00573346">Japan</a></span></li><li><span class="uid"><span class="rt-commentedText tooltip tooltip-dotted" title="investice"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph114790&amp;CON_LNG=ENG">Czech Republic</a></span></span><ul><li><span class="uid"><span class="rt-commentedText tooltip tooltip-dotted" title="finanční investování"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph137283&amp;CON_LNG=ENG">2</a></span></span></li></ul></li><li><span class="uid"><a rel="nofollow" class="external text" href="https://www.nli.org.il/en/authorities/987007558171605171">Israel</a></span></li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"><ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://hls-dhs-dss.ch/fr/articles/013837">Historical Dictionary of Switzerland</a></span></li><li><span class="uid"><a rel="nofollow" class="external text" href="https://catalog.archives.gov/id/10638702">NARA</a></span></li><li><span class="uid"><a rel="nofollow" class="external text" href="http://esu.com.ua/search_articles.php?id=13322">Encyclopedia of Modern Ukraine</a></span></li><li><span class="uid"><a rel="nofollow" class="external text" href="https://lux.collections.yale.edu/view/concept/b8fdbac1-62ba-4443-b963-f46f46ed22c0">Yale LUX</a></span></li></ul></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.canary‐678ff5c678‐dgqlb
+Cached time: 20260211162349
+Cache expiry: 1802
+Reduced expiry: true
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.607 seconds
+Real time usage: 0.806 seconds
+Preprocessor visited node count: 3166/1000000
+Revision size: 26495/2097152 bytes
+Post‐expand include size: 105421/2097152 bytes
+Template argument size: 3754/2097152 bytes
+Highest expansion depth: 13/100
+Expensive parser function count: 14/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 124068/5000000 bytes
+Lua time usage: 0.408/10.000 seconds
+Lua memory usage: 7322097/52428800 bytes
+Number of Wikibase entities loaded: 1/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  704.201      1 -total
+ 30.97%  218.087      1 Template:Reflist
+ 19.70%  138.758     17 Template:Cite_web
+ 14.28%  100.548      1 Template:Economics
+ 14.01%   98.667      1 Template:Navbox
+ 10.07%   70.895      4 Template:Sister_project
+  9.69%   68.251      4 Template:Side_box
+  9.48%   66.789      1 Template:Short_description
+  9.27%   65.265      1 Template:More_citations_needed
+  9.01%   63.427      1 Template:Authority_control
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:63121:|#|:idhash:canonical and timestamp 20260211162349 and revision id 1331762612. Rendering was triggered because: page_view
+ -->
+</div><noscript><img src="https://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Investment&amp;oldid=1331762612">https://en.wikipedia.org/w/index.php?title=Investment&amp;oldid=1331762612</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Category</a>: <ul><li><a href="/wiki/Category:Investment" title="Category:Investment">Investment</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_semi-protected_pages" title="Category:Wikipedia semi-protected pages">Wikipedia semi-protected pages</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2017" title="Category:Articles needing additional references from February 2017">Articles needing additional references from February 2017</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_excerpts" title="Category:Articles with excerpts">Articles with excerpts</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 8 January 2026, at 01:44<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a href="/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" title="Wikipedia:Text of the Creative Commons Attribution-ShareAlike 4.0 International License">Creative Commons Attribution-ShareAlike 4.0 License</a>;
+additional terms may apply. By using this site, you agree to the <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use" class="extiw" title="foundation:Special:MyLanguage/Policy:Terms of Use">Terms of Use</a> and <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy" class="extiw" title="foundation:Special:MyLanguage/Policy:Privacy policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-legal-safety-contacts"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information">Legal &amp; safety contacts</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.wikipedia.org/w/index.php?title=Investment&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Search Wikipedia">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Special:Search">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Search</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Contents" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Investment</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>91 languages</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Add topic</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-74f847d445-rbpvn","wgBackendResponseTime":176,"wgPageParseReport":{"limitreport":{"cputime":"0.607","walltime":"0.806","ppvisitednodes":{"value":3166,"limit":1000000},"revisionsize":{"value":26495,"limit":2097152},"postexpandincludesize":{"value":105421,"limit":2097152},"templateargumentsize":{"value":3754,"limit":2097152},"expansiondepth":{"value":13,"limit":100},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":124068,"limit":5000000},"entityaccesscount":{"value":1,"limit":500},"timingprofile":["100.00%  704.201      1 -total"," 30.97%  218.087      1 Template:Reflist"," 19.70%  138.758     17 Template:Cite_web"," 14.28%  100.548      1 Template:Economics"," 14.01%   98.667      1 Template:Navbox"," 10.07%   70.895      4 Template:Sister_project","  9.69%   68.251      4 Template:Side_box","  9.48%   66.789      1 Template:Short_description","  9.27%   65.265      1 Template:More_citations_needed","  9.01%   63.427      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.408","limit":"10.000"},"limitreport-memusage":{"value":7322097,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.canary-678ff5c678-dgqlb","timestamp":"20260211162349","ttl":1802,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Investment","url":"https:\/\/en.wikipedia.org\/wiki\/Investment","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4290","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4290","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-07-21T08:57:46Z","dateModified":"2026-01-08T01:44:32Z","headline":"commitment of resources to achieve later benefits"}</script>
+</body>
+</html>
