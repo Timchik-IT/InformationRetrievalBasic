@@ -67,6 +67,10 @@ class Program
         Console.WriteLine($"Crawling completed. {fileIndex - 1} pages saved.");
     }
 
+    /// <summary>
+    /// Создает HTTP-Client для обращения к сайтам.
+    /// </summary>
+    /// <returns>Созданный HTTP-Client.</returns>
     private static HttpClient CreateHttpClient()
     {
         var httpClient = new HttpClient();
@@ -76,6 +80,13 @@ class Program
         return httpClient;
     }
 
+    /// <summary>
+    /// Проверяет путь к json файлу и выгружает все ссылки в список.
+    /// </summary>
+    /// <param name="filePath">Путь к json файлу.</param>
+    /// <returns>Список ссылок из файла.</returns>
+    /// <exception cref="FileNotFoundException">Ошибка, если файл по пути не найден.</exception>
+    /// <exception cref="Exception">Ошибка, если содержимое json файла не ссылки.</exception>
     private static List<string> LoadUrls(string filePath)
     {
         if (!File.Exists(filePath))
@@ -96,6 +107,8 @@ class Program
     /// <summary>
     /// Удаляет script, style, link, но оставляет HTML структуру (div, p, h1...)
     /// </summary>
+    /// <param name="html"></param>
+    /// <returns></returns>
     private static string CleanHtml(string html)
     {
         var doc = new HtmlDocument();
