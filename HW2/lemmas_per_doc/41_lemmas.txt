@@ -1,0 +1,805 @@
+﻿aanand aanand
+abel abel
+abil ability
+abstract abstracted
+access access
+accord according
+account account accounts
+acquir acquired acquires acquiring
+across across
+action actions
+ad added
+add add
+addit addition additional
+address address
+adeo adeos
+adopt adoption
+advantag advantages
+ago ago
+agre agree
+agreement agreement
+aisgalego aisgalego
+algorithm algorithm
+allow allow allowing allows
+altern alternative
+amazon amazon
+amp amp
+analysi analysis
+analyz analyzed
+ani any
+announc announce announced announcing
+anoth another
+apach apache
+api api
+app app apps
+appear appearance
+appli apply
+applic application applications
+april april
+apt apt
+aquasec aquasec
+architectur architecture architectures
+archiv archived
+arg arg
+arm arm
+around around
+articl article articles
+articleabout articleabout
+articletalk articletalk
+aspect aspects
+assembl assemble
+atomicjar atomicjar
+attribut attribution
+au au
+august august
+austin austin
+authorsolomon authorsolomon
+autom automated automates
+avail availability available
+avoid avoiding
+avram avram
+aw aws
+az az
+azur azure
+backport backport
+bahasa bahasa
+bali bali
+barbier barbier
+barr barr
+base based
+basilisk basilisk
+becaus because
+ben ben
+beta beta
+bhyve bhyve
+big big
+blog blog blogs
+bluestack bluestacks
+board board
+boch bochs
+bosanski bosanski
+bot bot
+box box
+brandz brandz
+build build building
+built built
+bundl bundle
+busi business
+call called
+capabl capabilities capability capable
+carei carey
+case case
+catal catal
+categori categories
+cb cbs
+ceedo ceedo
+center center
+cgroup cgroups
+changesupload changesupload
+channel channel channels
+charg charge
+chri chris
+chroot chroot
+cio cio
+cisco cisco
+citat citation
+cite cite
+citrix citrix
+clara clara
+class classes
+cli cli
+client client clients
+close closely
+cloud cloud clouds
+cluster cluster clustering clusters
+cm cms
+code code
+codeship codeship
+collabnix collabnix
+collabor collaboration
+com com
+combin combinator combined
+come come coming
+command command commands
+commandsorigin commandsoriginal
+commod commodity
+common common commons
+commonli commonly
+commonsmediawikiwikiversitywikidata commonsmediawikiwikiversitywikidata
+commun communicate
+compani companies company
+compon component components
+compos compose
+comput compute computer computing
+conduct conduct
+configur configuration configure
+connect connect
+consensu consensus
+consist consistent consistently consists
+contact contact contacts
+contain contain container containers
+container containerization containerized
+containerizationoper containerizationoperating
+containersoper containersoperating
+content content contents
+context context
+continu continues
+contribut contribute
+contributor contributors
+cooki cookie
+cooper cooperating cooperative
+copi copy
+core core
+coreo coreos
+cp cp
+cpu cpu
+creat create created
+creation creation
+creativ creative
+crn crn
+cs cs
+custom customers
+daemon daemon daemons
+dalvik dalvik
+dan dan
+data data
+datadog datadog
+date dates
+debut debuted
+decemb december
+decentr decentralized
+default default
+defin define defined defines defining
+delet deleted
+deliv deliver
+demystifi demystifying
+depend dependencies
+deploi deploying
+deploy deployment deployments
+descript description
+descriptionshort descriptionshort
+design design designed
+desktop desktop desktops
+develop develop developed developers development
+devend devender
+devop devops
+differ different
+digitalocean digitalocean
+directli directly
+directori directory
+disclaim disclaimers
+discoveri discovery
+distribut distributed distributes distribution distributions
+distrobox distrobox
+docker docker
+dockerd dockerd
+dockerfil dockerfile
+dockerscreenshot dockerscreenshot
+document documentation
+don don
+dona dona
+donat donate
+dosbox dosbox
+dosemu dosemu
+dotcloud dotcloud
+dove dove
+download download
+driver driver drivers
+drop drops
+ebpf ebpf
+ec ec ecs
+ecosystem ecosystem
+edit edit edited editions
+editcommun editcommunity
+eight eight
+elast elastic
+embrac embraces
+emul emulators
+en en
+enabl enables enabling
+encapsul encapsulated encapsulation
+encyclopedia encyclopedia
+end end ended
+engin engine engines
+english english
+englishsloven englishsloven
+enterpris enterprise enterprises
+entiti entities
+env env
+environ environment environments
+espa espa
+esxi esxi
+ethernet ethernet
+even even
+event events
+eventsrandom eventsrandom
+evpn evpn
+exampl example
+examplefil examplefile
+execut executing execution
+expand expand
+export export
+expos expose
+extens extensible
+extern external
+extrem extreme
+facil facilities
+facilit facilitates
+fact facts
+featur feature features
+februari february
+fedora fedora
+fewer fewer
+file file files
+fileperman filepermanent
+filespeci filespecial
+firshman firshman
+first first
+flexibl flexibility
+folei foley
+follow following
+former former
+founadi founadi
+found found founded
+foundat foundation
+fr fr
+fran fran
+franc france
+freder frederic
+free free
+freebsd freebsd
+function functionality
+fusion fusion
+futur future
+ganeti ganeti
+gener general generic
+genev geneve
+get get
+giant giants
+gist gist
+github github
+gizmoxo gizmoxo
+gnu gnu
+go go
+gofre gofree
+googl google
+greater greater
+grew grew
+group group
+guid guide guides
+gupta gupta
+guthri guthrie
+gvisor gvisor
+handl handles
+hat hat
+helplearn helplearn
+hererel hererelated
+hide hide
+high high
+higher higher
+histori history
+home home
+horizon horizon
+host host
+hostedspeci hostedspecialized
+hpc hpc
+http https
+huawei huawei
+hub hub
+hyke hykes
+hykesdeveloperdock hykesdeveloperdocker
+hyper hyper
+hypervisor hypervisors
+ibm ibm
+icor icore
+id ids
+ii ii
+imag image images
+implement implementation implements
+ina ina
+inc inc
+includ includes including
+incub incubator
+independ independent
+index index
+infoq infoq
+informationcit informationcite
+infoworld infoworld
+infrastructur infrastructure
+ingo ingo
+initi initial initiative
+insid insider
+instal install installation installed
+installfre installfree
+instanc instance
+instead instead
+integr integrate integrated integrating integration
+interact interact interactive
+interfac interface interfaces
+intern internal
+introduc introducing
+introduct introduction
+involv involves
+io io
+iron iron
+isol isolated isolates isolation
+italiano italiano
+item item
+jail jail
+januari january
+jeff jeff
+jo jo
+john john
+juli july
+julien julien
+jump jump
+june june
+kamel kamel
+katherin katherine
+kernel kernel
+kevin kevin
+keyr keyrings
+know know
+known known
+kubernet kubernetes
+kubevirt kubevirt
+kvm kvm
+lan lan
+languag language languages
+lardinoi lardinois
+larg large
+larger larger
+last last
+later later
+latest latest
+latvi latvie
+launch launched
+ldom ldoms
+legal legal
+letypeo letypeos
+level level
+libcontain libcontainer
+librari libraries
+libvirt libvirt
+licens license licensed licensing
+licensevirtu licensevirtualization
+lightweight lightweight
+like like
+limit limit limited limiting
+lin lin
+line line
+link link links
+linkedin linkedin
+linkpag linkpage
+linux linux
+linuxhidden linuxhidden
+list list listing
+listen listens
+lmctfy lmctfy
+locat locations
+log log
+logic logical
+logo logo
+longer longer
+look looks
+lpar lpar
+lxc lxc
+lynxsecur lynxsecure
+mac mac
+machin machine machines
+maco macos
+macosplatformx macosplatformx
+made made
+main main
+maint maint
+maintain maintaining
+major majority
+manag manage managed management manager managers manages
+manipul manipulation
+march march
+mari mary
+mclaughlin mclaughlin
+mdy mdy
+meant meant
+melayunederland melayunederlands
+memori memory
+mention mentions
+menu menu
+meso mesos
+michael michael
+microservic microservices
+microsoft microsoft
+miller miller
+mobi moby
+mobil mobile
+mode mode
+model model
+momentum momentum
+mostli mostly
+mount mount mounted
+move move
+mullani mullany
+multi multi
+multipl multiple
+myvolum myvolume
+namespac namespaces
+nativ native natively
+navig navigation
+need need needed
+network network
+new new
+next next
+ng ng
+nichol nichols
+node node nodes
+nomad nomad
+non non
+note note
+notif notifications
+novemb november
+noy noyes
+nski nski
+nspawn nspawn
+nuanc nuances
+nvgre nvgre
+object objects
+octob october
+offer offering offers
+offici official
+oldid oldid
+oleuskara oleuskara
+omnissa omnissa
+onward onward
+open open
+openshift openshift
+openstack openstack
+openvz openvz
+oper operating
+operatingsystemo operatingsystemos
+option option options
+oracl oracle
+orchestr orchestrate orchestration
+org org
+organ organization organizations
+origin original
+os os
+overhead overhead
+overlai overlay
+overlayf overlayfs
+overrid override
+overview overview
+ovirt ovirt
+packag package packages
+page page pages
+pagecontentscurr pagecontentscurrent
+pageget pageget
+pahl pahl
+paid paid
+parallel parallels
+part part
+particular particular
+partit partition partitions
+partnership partnership
+path path
+pc pc
+pcem pcem
+pdfprintabl pdfprintable
+pearpc pearpc
+per per
+perform performed performs
+persist persistence persistent
+person personal
+php php
+pi pi
+pikeo pikeos
+pivot pivots
+plan plan plans
+platform platform platforms
+player player
+podman podman
+polici policy
+polskiportugu polskiportugu
+port port
+portal portal
+portalrec portalrecent
+power powers
+powerus poweruser
+ppc ppc
+prasad prasad
+prem prem
+premis premises
+presenc presence
+preview preview
+previous previously
+principl principle
+print print
+privaci privacy
+privat private
+pro pro
+process process processes
+product production products
+profil profile
+profit profit
+program program programmed programming
+project project projects
+projectatom projectatomic
+provid provide provided provides
+proxmox proxmox
+public public
+pull pull
+puls pulse
+push push
+pycon pycon
+qemu qemu
+qnx qnx
+qr qr
+quarter quarter
+quot quot
+raft raft
+rais raised raises
+rancher rancher
+ranchero rancheros
+raspberri raspberry
+rath rath
+rbaycancabasa rbaycancabasa
+re re
+read read
+readeditview readeditview
+readi ready
+real real
+reason reason
+red red
+refer reference references
+regist registered
+registri registries registry
+relat related
+relationship relationship
+releas release released
+releasemarch releasemarch
+relev relevant
+remain remain remained
+remot remote
+remov removing
+renam renamed
+replac replaced
+repo repo
+repositori repository
+repositorygithub repositorygithub
+request requests
+research research
+resourc resource resources
+result result
+retriev retrieved
+revoir revoir
+rhel rhel
+rk rk
+rkt rkt
+role role
+ron ron
+rump rump
+run run running runs
+runtim runtime
+safeti safety
+santa santa
+sarkar sarkar
+scale scaled scaling
+scope scope
+scott scott
+scottgu scottgu
+search search
+sebastien sebastien
+seccomp seccomp
+second second
+secret secret
+secur security
+securityoper securityoperating
+see see
+select select
+sent sent
+septemb september
+serdar serdar
+server server servers
+servic service services
+set set
+sever several
+share share sharing
+sharealik sharealike
+sheepshav sheepshaver
+ship ship shipping
+shirlei shirley
+short short
+shorten shortened
+show showed
+shqipsimpl shqipsimple
+sidebar sidebar
+siluk siluk
+simh simh
+simi simi
+similar similar
+simmon simmon
+simultan simultaneously
+sinc since
+singl single
+singular singularity
+site site
+smarto smartos
+softwar software
+softwarecomparison softwarecomparison
+softwarecontainer softwarecontainerization
+softwarefre softwarefree
+softwarehardwar softwarehardware
+softwarelinux softwarelinux
+solari solaris
+solomon solomon
+sourc source
+sparc sparc
+specifi specified specifies
+sql sql
+srpskisuomit srpskisuomit
+sruna sruna
+ssh ssh
+stabl stable
+stack stack
+stackengin stackengine
+standard standard standardized
+start start started starting
+startup startup
+statement statement statements
+statementsarticl statementsarticles
+statist statistics
+statu status
+steven steven
+stop stopped
+storag storage
+store store
+strateg strategic
+stratoscal stratoscale
+subsect subsection
+subsystem subsystem
+summer summer
+support support supporting
+surpris surprising
+swan swan
+swarm swarm swarms
+switch switch
+symantec symantec
+system system systems
+systemd systemd
+systemlinux systemlinux
+tabl table
+team team
+tech tech
+techcrunch techcrunch
+technologysoftwar technologysoftware
+templat template
+term terms
+test testing
+text text
+themselv themselves
+thinapp thinapp
+three three
+ti ti
+tier tiers
+time time
+tinadanskdeutscheesti tinadanskdeutscheesti
+titl title
+todai today
+togeth together
+toggl toggle
+token tokens
+tool tool tools
+toolchain toolchain
+top top
+topic topic
+trademark trademark
+tree trees
+turbo turbo
+turn turns
+tutum tutum
+txt txt
+typic typical
+ubuntu ubuntu
+ucp ucp
+ulombardmagyar ulombardmagyar
+unaffect unaffected
+under under
+unifi unifies
+union union
+unknown unknown
+unknownarticl unknownarticles
+unsourc unsourced
+updat update updated updating
+upload upload
+url url
+urldownload urldownload
+user user users
+usual usually
+utc utc
+util utility
+utm utm
+valu value
+variabl variable
+varieti variety
+variou various
+vaughan vaughan
+vcloud vcloud
+ve ve
+vendor vendor
+version version versions
+vi vi
+via via
+view view
+virt virt
+virtual virtual virtualization
+virtualbox virtualbox
+virtualizationcontain virtualizationcontainer
+virtualizationlicens virtualizationlicense
+virtuozzo virtuozzo
+vkernel vkernel
+vm vm
+vmware vmware
+volum volume
+vpn vpn
+vserver vserver
+vsphere vsphere
+vswitch vswitch
+vtelinux vtelinux
+vtevirtu vtevirtualization
+vxlan vxlan
+walsh walsh
+wd wd
+web web
+websit website
+websitewww websitewww
+welcom welcome
+well well
+what what
+which which
+while while
+wikidataus wikidatause
+wikimedia wikimedia
+wikipedia wikipedia
+wikipediacontact wikipediacontact
+win win wins
+windock windocks
+window windows
+within within
+work work working
+workload workload
+workspac workspace
+workstat workstation
+written written
+wsl wsl
+www www
+xcp xcp
+xen xen
+xenserv xenserver
+xtratum xtratum
+yaml yaml
+year year years
+yegulalp yegulalp
+yet yet
+yml yml
+youtub youtube
+zdnet zdnet
+zerovm zerovm
