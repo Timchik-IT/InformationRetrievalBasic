@@ -1,5 +1,5 @@
 /.vscode 
 /WebCrawler.sln
-/WebCrawler/bin
-/WebCrawler/obj
 
+*/bin
+*/obj
