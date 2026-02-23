@@ -1,0 +1,57 @@
+@* Главная страница демо-веб-интерфейса векторного поиска. *@
+@model DEMO.Models.SearchViewModel
+
+@{
+    ViewData["Title"] = "Vector Search Demo";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4">Vector Search Demo (TF-IDF)</h1>
+
+    @* Простая форма GET: текстовое поле запроса и кнопка "Искать". *@
+    <form method="get" asp-controller="Home" asp-action="Index" class="mb-4">
+        <div class="input-group input-group-lg">
+            <input type="text"
+                   name="query"
+                   class="form-control"
+                   placeholder="Введите поисковый запрос..."
+                   value="@Model.Query" />
+            <button class="btn btn-primary" type="submit">Искать</button>
+        </div>
+    </form>
+
+    @* После отправки запроса показываем результаты (или сообщение "ничего не найдено"). *@
+    @if (!string.IsNullOrWhiteSpace(Model.Query))
+    {
+        if (Model.Results.Count == 0)
+        {
+            <div class="alert alert-warning">Ничего не найдено.</div>
+        }
+        else
+        {
+            <h3 class="mb-3">Результаты для "@Model.Query"</h3>
+            <p class="text-muted">Показаны топ @Model.Results.Count документов по убыванию сходства.</p>
+
+            <table class="table table-striped">
+                <thead>
+                <tr>
+                    <th style="width: 5%;">#</th>
+                    <th style="width: 45%;">Документ</th>
+                    <th style="width: 20%;">Score</th>
+                </tr>
+                </thead>
+                <tbody>
+                @for (var i = 0; i < Model.Results.Count; i++)
+                {
+                    var r = Model.Results[i];
+                    <tr>
+                        <td>@(i + 1)</td>
+                        <td>@r.DocumentName</td>
+                        <td>@r.Score.ToString("F4")</td>
+                    </tr>
+                }
+                </tbody>
+            </table>
+        }
+    }
+</div>
