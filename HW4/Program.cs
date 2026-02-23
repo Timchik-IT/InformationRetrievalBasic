@@ -1,21 +1,27 @@
-﻿using System.Text;
-using System.Text.RegularExpressions;
-using HtmlAgilityPack;
+using System.Text;
+using Common;
 
 namespace HW4;
 
 class Program
 {
+    // Исходные HTML-файлы (Задание 1)
     private static readonly string DataPath =
         Path.GetFullPath(Path.Combine(AppContext.BaseDirectory,
-            @"..\..\..\..\HW1\crawled_pages")); // Исходные HTML-файлы
+            @"..\..\..\..\HW1\crawled_pages"));
 
-    private static readonly string TokensAndLemmasPath =
+    // Результаты HW2 (списки терминов и лемм)
+    private static readonly string Hw2BasePath =
         Path.GetFullPath(Path.Combine(AppContext.BaseDirectory,
-            @"..\..\..\..\HW2")); // Исходные HTML-файлы
-    private static readonly string TokensFile = Path.Combine(TokensAndLemmasPath, "tokens.txt"); // Из Задания 2
-    private static readonly string LemmasFile = Path.Combine(TokensAndLemmasPath, "lemmas.txt"); // Из Задания 2
+            @"..\..\..\..\HW2"));
+    private static readonly string TokensFile = Path.Combine(Hw2BasePath, "tokens.txt");
+    private static readonly string LemmasFile = Path.Combine(Hw2BasePath, "lemmas.txt");
 
+    // Пер-документные токены и леммы из HW2
+    private static readonly string TokensPerDocPath = Path.Combine(Hw2BasePath, "tokens_per_doc");
+    private static readonly string LemmasPerDocPath = Path.Combine(Hw2BasePath, "lemmas_per_doc");
+
+    // Директория, куда HW4 пишет свои результаты
     private static readonly string OutputDir = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, @"..\..\..\"));
 
     // Глобальная статистика для IDF
@@ -27,6 +33,19 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("=== Расчёт TF-IDF (используем существующие файлы) ===\n");
+
+        if (!Directory.Exists(DataPath))
+        {
+            Console.WriteLine($"Ошибка: Папка с исходными документами '{DataPath}' не найдена.");
+            return;
+        }
+
+        if (!Directory.Exists(TokensPerDocPath) || !Directory.Exists(LemmasPerDocPath))
+        {
+            Console.WriteLine($"Ошибка: Не найдены результаты HW2 (ожидаются '{TokensPerDocPath}' и '{LemmasPerDocPath}').");
+            Console.WriteLine("Сначала запустите HW2 для генерации per-doc токенов и лемм.");
+            return;
+        }
 
         // 1. Загружаем маппинг термин -> лемма из lemmas.txt
         LoadLemmasMapping();
@@ -71,26 +90,51 @@ class Program
     }
 
     /// <summary>
-    /// Считает DF (в скольких документах встречается термин/лемма)
+    /// Считает DF (в скольких документах встречается термин/лемма),
+    /// используя per-doc токены и леммы из HW2.
     /// </summary>
     private static void CollectDocumentFrequencies()
     {
-        var files = Directory.GetFiles(DataPath, "*.txt").ToList();
-        _totalDocs = files.Count;
+        // === DF для терминов ===
+        var tokenFiles = Directory.GetFiles(TokensPerDocPath, "*_tokens.txt")
+            .OrderBy(f => f, StringComparer.OrdinalIgnoreCase)
+            .ToList();
 
-        foreach (var file in files)
+        _totalDocs = tokenFiles.Count;
+
+        foreach (var file in tokenFiles)
         {
-            var terms = ExtractTermsFromFile(file);
-            var uniqueTerms = new HashSet<string>(terms, StringComparer.OrdinalIgnoreCase);
-            var uniqueLemmas = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
+            // В файле по одному уникальному термину в строке
+            var uniqueTerms = File.ReadAllLines(file, Encoding.UTF8)
+                .Select(t => t.Trim().ToLower())
+                .Where(t => !string.IsNullOrWhiteSpace(t))
+                .ToHashSet(StringComparer.OrdinalIgnoreCase);
 
             foreach (var term in uniqueTerms)
             {
                 TermDf.TryAdd(term, 0);
                 TermDf[term]++;
+            }
+        }
 
-                if (TermToLemma.TryGetValue(term, out var lemma))
-                    uniqueLemmas.Add(lemma);
+        // === DF для лемм ===
+        var lemmaFiles = Directory.GetFiles(LemmasPerDocPath, "*_lemmas.txt")
+            .OrderBy(f => f, StringComparer.OrdinalIgnoreCase)
+            .ToList();
+
+        foreach (var file in lemmaFiles)
+        {
+            // В файле каждая строка начинается с леммы:
+            // <lemma> <token1> <token2> ...
+            var uniqueLemmas = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
+
+            foreach (var line in File.ReadAllLines(file, Encoding.UTF8))
+            {
+                var parts = line.Split([' '], StringSplitOptions.RemoveEmptyEntries);
+                if (parts.Length == 0) continue;
+
+                var lemma = parts[0].ToLower();
+                uniqueLemmas.Add(lemma);
             }
 
             foreach (var lemma in uniqueLemmas)
@@ -100,35 +144,19 @@ class Program
             }
         }
 
-        Console.WriteLine($"Обработано документов: {_totalDocs}");
+        Console.WriteLine($"Обработано документов (по per-doc токенам): {_totalDocs}");
     }
 
     /// <summary>
-    /// Извлекает термины из файла (используем ту же логику, что в Задании 2)
+    /// Извлекает термины из файла с использованием общего TextProcessor
+    /// (та же логика токенизации, что и в заданиях 2/3).
     /// </summary>
     private static List<string> ExtractTermsFromFile(string filePath)
     {
-        var doc = new HtmlDocument();
-        doc.LoadHtml(File.ReadAllText(filePath, Encoding.UTF8));
-        var text = doc.DocumentNode.InnerText;
-
-        return Regex.Matches(text.ToLower(), @"[a-z]+")
-            .Select(m => m.Value)
-            .Where(t => t.Length > 2 && !StopWords.Contains(t))
-            .ToList();
+        var text = TextProcessor.ExtractTextFromHtmlFile(filePath);
+        // Для TF-IDF оставляем ту же минимальную длину токена, что и была ( > 2 )
+        return TextProcessor.Tokenize(text, minTokenLength: 3).ToList();
     }
-
-    /// <summary>
-    /// Стоп-слова (должны совпадать с Заданием 2)
-    /// </summary>
-    private static readonly HashSet<string> StopWords =
-    [
-        "the", "a", "an", "and", "or", "but", "in", "on", "at", "to", "for", "of", "with", "by", "from",
-        "up", "about", "into", "through", "during", "before", "after", "above", "below", "between", "both",
-        "is", "are", "was", "were", "be", "been", "being", "have", "has", "had", "do", "does", "did",
-        "will", "would", "could", "should", "can", "may", "might", "must", "i", "you", "he", "she", "it",
-        "we", "they", "me", "him", "her", "us", "them", "my", "your", "his", "its", "our", "their"
-    ];
 
     /// <summary>
     /// Расчёт TF-IDF для каждого документа
