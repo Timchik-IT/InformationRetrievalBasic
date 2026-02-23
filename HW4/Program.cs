@@ -14,7 +14,6 @@ class Program
     private static readonly string Hw2BasePath =
         Path.GetFullPath(Path.Combine(AppContext.BaseDirectory,
             @"..\..\..\..\HW2"));
-    private static readonly string TokensFile = Path.Combine(Hw2BasePath, "tokens.txt");
     private static readonly string LemmasFile = Path.Combine(Hw2BasePath, "lemmas.txt");
 
     // Пер-документные токены и леммы из HW2
@@ -22,7 +21,7 @@ class Program
     private static readonly string LemmasPerDocPath = Path.Combine(Hw2BasePath, "lemmas_per_doc");
 
     // Директория, куда HW4 пишет свои результаты
-    private static readonly string OutputDir = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, @"..\..\..\"));
+    private static readonly string OutputDir = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, @"..\..\..\lemmas_terms_per_doc"));
 
     // Глобальная статистика для IDF
     private static readonly Dictionary<string, int> TermDf = new(StringComparer.OrdinalIgnoreCase);
@@ -46,6 +45,9 @@ class Program
             Console.WriteLine("Сначала запустите HW2 для генерации per-doc токенов и лемм.");
             return;
         }
+
+        // Создаём директорию вывода (иначе WriteAllLines упадёт)
+        Directory.CreateDirectory(OutputDir);
 
         // 1. Загружаем маппинг термин -> лемма из lemmas.txt
         LoadLemmasMapping();

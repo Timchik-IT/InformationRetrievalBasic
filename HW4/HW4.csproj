@@ -11,8 +11,8 @@
       <PackageReference Include="HtmlAgilityPack" Version="1.12.4" />
     </ItemGroup>
 
-  <ItemGroup>
-    <Compile Include="..\Common\TextProcessor.cs" />
-  </ItemGroup>
+    <ItemGroup>
+      <ProjectReference Include="..\Common\Common.csproj" />
+    </ItemGroup>
 
 </Project>
