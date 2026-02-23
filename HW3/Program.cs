@@ -1,6 +1,6 @@
-﻿using System.Text;
+using System.Text;
 using System.Text.RegularExpressions;
-using HtmlAgilityPack;
+using Common;
 
 namespace HW3;
 
@@ -11,19 +11,6 @@ class Program
 
     private static readonly string OutputDir = Directory.GetCurrentDirectory();
     private static readonly string IndexFilePath = Path.Combine(OutputDir, "inverted_index.txt");
-
-    // Стоп-слова для фильтрации
-    private static readonly HashSet<string> StopWords =
-    [
-        "the", "a", "an", "and", "or", "but", "in", "on", "at", "to", "for", "of", "with", "by", "from",
-        "up", "about", "into", "through", "during", "before", "after", "above", "below", "between", "both",
-        "is", "are", "was", "were", "be", "been", "being", "have", "has", "had", "do", "does", "did",
-        "will", "would", "could", "should", "can", "may", "might", "must", "i", "you", "he", "she", "it",
-        "we", "they", "me", "him", "her", "us", "them", "my", "your", "his", "its", "our", "their",
-        "this", "that", "these", "those", "am", "as", "if", "when", "where", "why", "how", "all", "each",
-        "every", "few", "more", "most", "other", "some", "such", "no", "nor", "not", "only", "own", "same",
-        "so", "than", "too", "very", "just", "also", "now", "here", "there", "then", "once"
-    ];
 
     // Инвертированный индекс: термин -> список ID документов
     private static readonly Dictionary<string, HashSet<int>> InvertedIndex = new(StringComparer.OrdinalIgnoreCase);
@@ -66,16 +53,13 @@ class Program
 
         Console.WriteLine($"Обработка {files.Count} файлов...");
 
-        int docId = 0;
+        var docId = 0;
         foreach (var file in files)
         {
             try
             {
-                var doc = new HtmlDocument();
-                doc.LoadHtml(File.ReadAllText(file, Encoding.UTF8));
-
-                // Извлекаем текст
-                var text = doc.DocumentNode.InnerText;
+                // Извлекаем текст из HTML
+                var text = TextProcessor.ExtractTextFromHtmlFile(file);
 
                 // Токенизация
                 var tokens = Tokenize(text);
@@ -106,9 +90,9 @@ class Program
     /// </summary>
     private static IEnumerable<string> Tokenize(string text)
     {
-        return Regex.Matches(text.ToLower(), @"[a-z]+")
-            .Select(m => m.Value)
-            .Where(t => t.Length > 2 && !StopWords.Contains(t));
+        // Для индекса в HW3 оставляем минимальную длину токена 3,
+        // как и было раньше (Length > 2).
+        return TextProcessor.Tokenize(text, minTokenLength: 3);
     }
 
     /// <summary>
@@ -305,7 +289,7 @@ public class BooleanQueryParser(List<string> tokens, Dictionary<string, HashSet<
             return result;
         }
 
-        if (token == "AND" || token == "OR" || token == "NOT" || token == ")")
+        if (token is "AND" or "OR" or "NOT" or ")")
             throw new Exception($"Неожиданный оператор: {token}");
 
         // Термин
