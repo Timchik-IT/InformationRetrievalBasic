@@ -2,7 +2,7 @@
 using System.Net.Http;
 using HtmlAgilityPack;
 
-namespace WebCrawler;
+namespace HW1;
 
 class Program
 {
