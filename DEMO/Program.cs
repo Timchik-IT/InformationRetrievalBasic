@@ -2,10 +2,12 @@ using Common;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Добавляем стандартные MVC-контроллеры и представления.
 builder.Services.AddControllersWithViews();
 
-// Регистрируем векторный поисковый движок как singleton
+// Регистрируем векторный поисковый движок как singleton:
+// он один раз загружает TF-IDF вектора из HW4 и переиспользуется
+// всеми HTTP-запросами во время работы демо.
 builder.Services.AddSingleton(sp =>
 {
     var hw4BasePath = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory,
@@ -16,7 +18,7 @@ builder.Services.AddSingleton(sp =>
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Конвейер обработки HTTP-запросов.
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");

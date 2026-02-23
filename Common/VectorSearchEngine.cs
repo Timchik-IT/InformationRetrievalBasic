@@ -2,6 +2,11 @@ using System.Text;
 
 namespace Common;
 
+/// <summary>
+/// Результат поиска: имя документа и его score.
+/// </summary>
+/// <param name="DocumentName">Имя документа (например, "10.txt").</param>
+/// <param name="Score">Косинусное сходство (чем больше, тем релевантнее).</param>
 public record SearchResult(string DocumentName, double Score);
 
 /// <summary>
@@ -12,11 +17,21 @@ public class VectorSearchEngine
     private readonly Dictionary<string, Dictionary<string, double>> _docTermVectors =
         new(StringComparer.OrdinalIgnoreCase);
 
+    /// <summary>
+    /// Загруженные документы и их TF-IDF веса:
+    /// documentName -> (term -> tf-idf(term, document)).
+    /// </summary>
     public IReadOnlyDictionary<string, IReadOnlyDictionary<string, double>> Documents =>
         _docTermVectors.ToDictionary(
             kvp => kvp.Key, IReadOnlyDictionary<string, double> (kvp) => kvp.Value,
             StringComparer.OrdinalIgnoreCase);
 
+    /// <summary>
+    /// Создаёт движок и загружает TF-IDF вектора документов из директории HW4.
+    /// Ожидается, что в директории лежат файлы вида "*_terms.txt" со строками:
+    /// "&lt;term&gt; &lt;idf&gt; &lt;tf-idf&gt;".
+    /// </summary>
+    /// <param name="hw4TermsDirectory">Путь к папке с результатами HW4 (например, "HW4/lemmas_terms_per_doc").</param>
     public VectorSearchEngine(string hw4TermsDirectory)
     {
         if (!Directory.Exists(hw4TermsDirectory))
@@ -30,8 +45,12 @@ public class VectorSearchEngine
     }
 
     /// <summary>
-    /// Векторный поиск: строим вектор запроса и считаем косинусное сходство с каждым документом.
+    /// Векторный поиск.
+    /// Документы представлены TF-IDF векторами, запрос представляется TF-вектором
+    /// (частоты терминов в запросе), после чего считается косинусное сходство.
     /// </summary>
+    /// <param name="query">Строка запроса.</param>
+    /// <param name="topN">Сколько лучших результатов вернуть (по умолчанию 10).</param>
     public List<SearchResult> Search(string query, int topN = 10)
     {
         var queryTokens = TextProcessor.Tokenize(query, minTokenLength: 3).ToList();
@@ -62,6 +81,11 @@ public class VectorSearchEngine
             .ToList();
     }
 
+    /// <summary>
+    /// Загружает TF-IDF вектора документов из файлов "*_terms.txt".
+    /// Имя документа восстанавливается из имени файла: "10_terms.txt" -> "10.txt".
+    /// </summary>
+    /// <param name="hw4TermsDirectory">Папка с результатами HW4.</param>
     private void LoadDocumentVectors(string hw4TermsDirectory)
     {
         var termFiles = Directory.GetFiles(hw4TermsDirectory, "*_terms.txt")
@@ -93,6 +117,12 @@ public class VectorSearchEngine
         }
     }
 
+    /// <summary>
+    /// Косинусное сходство двух разреженных векторов "term -> weight".
+    /// Возвращает число в диапазоне [0..1] (при неотрицательных весах).
+    /// </summary>
+    /// <param name="v1">Вектор запроса (term -> weight).</param>
+    /// <param name="v2">Вектор документа (term -> weight).</param>
     private static double CosineSimilarity(
         Dictionary<string, double> v1,
         Dictionary<string, double> v2)
