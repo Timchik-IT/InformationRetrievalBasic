@@ -1,0 +1,809 @@
+﻿aa aa
+abil ability
+abstract abstract
+ac ac
+acceler accelerator
+access access accessed
+account account
+action actions
+acycl acyclic
+add add adds
+addison addison
+addit addition additional
+address address addresses addressing
+adt adt
+advanc advanced
+advantag advantage
+afrikaan afrikaans
+aggreg aggregate
+agre agree
+aho aho
+aisgalego aisgalego
+algebra algebraic
+algorithm algorithm algorithms
+align alignment
+alloc allocate allocation
+allow allow allowing allows
+almost almost
+alwai always
+among among
+amount amounts
+amp amp
+amsterdam amsterdam
+analysi analysis
+analyz analyzed
+ani any
+apostolico apostolico
+appear appearance
+appli applied apply
+applic applications
+approach approach
+approxim approximate
+april april
+arbitrari arbitrary
+architectur architecture
+archiv archived
+arithmet arithmetic
+arrai array arrays
+art art
+articl article
+articleabout articleabout
+articletalk articletalk
+assembl assembly
+associ association associative
+asturianu asturianu
+attribut attribution
+author authority
+autocomplet autocomplete
+automaton automaton
+avail available
+averag average
+avl avl
+baeza baeza
+bahasa bahasa
+balanc balancing
+base based
+basi basis
+basic basic
+bcpl bcpl
+begin beginning
+bfloat bfloat
+bibliographi bibliography
+big big
+bignum bignum
+binari binary
+binomi binomial
+biolog biological
+biotechnolog biotechnology
+bit bit
+bitap bitap
+black black
+blast blast
+block block
+bloomington bloomington
+bokm bokm
+boolean boolean
+bosanski bosanski
+bottom bottom
+box boxing
+boyer boyer
+brass brass
+breadth breadth
+britannica britannica
+brown brown
+buffer buffer
+build building
+built built
+busi business
+byte byte
+cach caches
+call called
+cambridg cambridge
+canneyt canneyt
+cannot cannot
+case case
+catal catal
+categori categories category
+certain certain
+chain chaining
+chand chand
+changesupload changesupload
+chapman chapman
+chapter chapter
+charact character characters
+charl charles
+check checking
+chichest chichester
+choic choices
+chosen chosen
+circular circular
+citat citation
+class class classes
+client clients
+clifford clifford
+code code
+collect collection collections
+collis collisions
+combin combined
+come come
+commentz commentz
+common common commons
+commonli commonly
+commonsquot commonsquotations
+commonswikibookswikidata commonswikibookswikidata
+comparison comparison
+compil compiler
+complex complex
+composit composite
+compress compressed
+comput computational computer computing
+concept concept concepts
+conceptu conceptual
+concret concrete
+concurr concurrent
+conduct conduct
+confus confused
+connect connect connected connections
+consist consist consists
+constant constant
+construct construction
+constructor constructor
+contact contact contacts
+contain container contains
+content content contents
+context context
+contigu contiguous
+contribut contribute
+control control
+convers conversion
+cooki cookie
+corasick corasick
+core core
+cormen cormen
+cost cost
+cours course
+crc crc
+creat create creating
+creativ creative
+cs cs
+cycl cycles
+dafsa dafsa
+damerau damerau
+data data
+databas database databases
+datajapanczech datajapanczech
+decemb december
+decim decimal
+decis decision
+default default
+defin defined defines
+definit definitions
+delhi delhi
+depend dependent depending
+depth depth
+dequeu dequeue
+descend descendant
+descript description descriptions
+descriptionshort descriptionshort
+design design designing
+detail details
+develop developers
+diagram diagram
+dictionari dictionaries dictionary
+differ different
+dimension dimensional
+dinesh dinesh
+direct direct directed
+disclaim disclaimers
+disjoint disjoint
+distanc distance
+distinguish distinguish
+doi doi
+donald donald
+donat donate
+doubl double
+download download
+dubei dubey
+dynam dynamic dynamization
+ed ed eds
+edg edges
+edit edit edited edition
+editcommun editcommunity
+educ education
+edwin edwin
+effici efficiency efficient efficiently
+either either
+element element elements
+elli ellis
+emphas emphasize
+emploi employed
+empti empty
+en en
+enabl enable
+encyclopaedia encyclopaedia
+encyclopedia encyclopedia
+end ended
+engin engines
+english english
+englishsloven englishsloven
+enhanc enhanced
+enqueu enqueue
+enterpris enterprise
+entiti entities entity
+enumer enumerated
+equal equality
+espa espa
+especi especially
+eventsrandom eventsrandom
+examin examination
+exampl example examples
+except exception
+export export
+express expression
+extend extended
+extern external
+facial facial
+facilit facilitates
+factor factor
+fast fast
+featur feature
+februari february
+fermi fermi
+fetch fetch
+fibonacci fibonacci
+field fields
+fifo fifo
+fileperman filepermanent
+filespeci filespecial
+fine fine
+finit finite
+first first
+fischer fischer
+fit fit
+fix fixed
+float floating
+flow flow
+fm fm
+follow follow
+forc forced
+form form forming
+formal formal
+format format
+foundat foundation
+framework framework
+fran fran
+free free
+front front
+function function functions
+fundament fundamentals
+further further
+gavan gavane
+gavin gavin
+gener general generalized generally generic
+geograph geographic
+geometri geometry
+gestalt gestalt
+giancarlo giancarlo
+gnu gnu
+goal goal
+gonnet gonnet
+grain grained
+grammar grammar
+graph graph graphs
+guid guide
+gunjal gunjal
+half half
+hall hall
+ham hamming
+hand hand
+handbook handbook
+handl handle
+hash hash hashed hashing
+heap heap heaps
+helplearn helplearn
+hererel hererelated
+hidden hidden
+hide hide
+hierarch hierarchical
+hierarchi hierarchy
+high high
+higher higher
+highli highly
+hilbert hilbert
+hill hill
+hirschberg hirschberg
+histori history
+holland holland
+horowitz horowitz
+horspool horspool
+howev however
+hrvatskiidobahasa hrvatskiidobahasa
+http https
+identifi identifier identifiers
+ijca ijca
+il il
+impact impact
+implement implement implementation implementations implemented implements
+implic implications
+ina ina
+inasloven inasloven
+inc inc
+includ include including
+index index indexed indexes indexing
+india india
+indiana indiana
+indic indice
+indirectli indirectly
+individu individual
+indonesiainterlingua indonesiainterlingua
+induct inductive
+inform information
+informationcit informationcite
+insert inserted
+instanc instance instances
+institut institute
+integ integer
+interfac interface
+intern international
+internationalgndnationalunit internationalgndnationalunited
+internet internet
+intersect intersection
+interv interval
+introduct introduction
+isbn isbn
+isbnarticl isbnarticles
+ispolskiportugu ispolskiportugu
+item item items
+itself itself
+jaro jaro
+java java
+john john
+joshi joshi
+journal journal
+jump jump
+karp karp
+kei key keys
+kind kind kinds
+kiswahili kiswahili
+known known
+knuth knuth
+lab lab
+laboratori laboratory
+lack lack
+languag language languages
+larg large
+last last
+latinalatvi latinalatvie
+lcp lcp
+lead leading
+learn learning
+lee lee
+legal legal
+leiserson leiserson
+length length
+level level
+levenshtein levenshtein
+librari libraries library
+licens license
+lifo lifo
+like like
+linear linear
+link link linked links
+linkpag linkpage
+lipschutz lipschutz
+list list lists
+lo lo
+log log
+logic logical
+long long
+longest longest
+look look
+low low
+lux lux
+machin machine
+main main
+maint maint
+manag manage
+mani many
+manipul manipulate manipulated
+manual manual
+map map maps
+mark mark
+masm masm
+match matches matching
+mathemat mathematical
+matrix matrix
+mcgraw mcgraw
+mean means
+mechan mechanism
+mehta mehta
+melayu melayu
+member members
+memori memory
+menu menu
+metaclass metaclass
+metaobject metaobject
+method methods
+metric metric
+micha micha
+microsoft microsoft
+mine mining
+minifloat minifloat
+mit mit
+mobil mobile
+model model modeling modelling models
+modelmain modelmain
+modern modern
+modif modification
+modul module
+modular modular
+moir moir
+moor moore
+morin morin
+morri morris
+motiv motivates
+move move
+multi multi
+multimap multimap
+multipl multiple
+multiset multiset
+name names
+nation national
+navig navigation
+necess necessity
+nederland nederlands
+needleman needleman
+net net
+network networks
+new new
+next next
+ng ng
+nievergelt nievergelt
+niklau niklaus
+nir nir
+node node nodes
+non non
+nondeterminist nondeterministic
+norsk norsk
+north north
+note note
+null null
+number number
+numer numeric numerous
+object object objects
+observ observation
+occur occur
+oclc oclc
+octupl octuple
+old old
+oldid oldid
+olesperantoeuskara olesperantoeuskara
+onlin online
+opaqu opaque
+open open
+oper operations
+optim optimal optimized
+option option
+order order
+org org
+organ organization organize organizing
+orient oriented
+origin original
+out out
+over over
+page page pages
+pagecontentscurr pagecontentscurrent
+pageget pageget
+paper paper
+paramet parameter
+parametr parametric
+pars parsing
+particular particular
+particularli particularly
+pascal pascal
+pat pat
+pattern pattern
+paul paul
+pdf pdf
+pdfprintabl pdfprintable
+perform performance performed performing
+persist persistent
+person personal
+perspect perspective
+peter peter
+php php
+physic physical
+piemont piemont
+pieters pieterse
+place place
+plain plain
+pod pod
+point point points
+pointer pointer
+polici policy
+polymorph polymorphism
+pop pop
+popular popular
+portalrec portalrecent
+powel powell
+pp pp
+pratt pratt
+precis precisely precision
+prefix prefix prefixes
+prentic prentice
+press press
+primari primary
+primit primitive
+princip principal
+principl principle
+print print
+prioriti priority
+privaci privacy
+procedur procedures
+process process processing
+product product
+profit profit
+profound profound
+program program programming programs
+project project projects
+properti properties
+provid provide
+publish publishing
+purpos purpose
+push push
+python python
+qr qr
+quadrupl quadruple
+queap queap
+queue queue queues
+quick quick
+rabin rabin
+raita raita
+random random
+rapid rapid
+rather rather
+ration rational
+rd rd
+read reading
+readeditview readeditview
+rear rear
+recognit recognition
+record record records
+recurs recursive
+red red
+reduc reduced
+refer reference references
+refin refinement
+regina regina
+regist registered
+regular regular
+reilli reilly
+relat related relational
+relatedtop relatedtopics
+relationship relationship relationships
+reloc relocating
+remov removed removes
+repres represent representing represents
+represent representation
+republicisraelotheryal republicisraelotheryale
+requir required requires
+resiz resizable
+respect respectively
+rest rest
+retriev retrieval retrieve retrieved
+reus reused
+revis revised
+rewrit rewriting
+rg rg
+rivest rivest
+rk rk
+role role
+rom rom
+ronald ronald
+root root
+rope rope
+sack sack
+safeti safety
+sahni sahni
+sartaj sartaj
+sc sc
+scalabl scalability
+scenario scenarios
+schaffer schaffer
+schema schema schemas
+scienc science sciences
+search search searches searching
+searchpag searchpages
+second second
+secondari secondary
+see see
+self self
+semant semantic
+semaphor semaphore
+separ separately separation
+septemb september
+sequenc sequence
+sequenti sequential
+serv serve
+servic services
+set set
+seymour seymour
+share share
+sharealik sharealike
+shavit shavit
+short short
+shorten shortened
+shqip shqip
+shraddha shraddha
+sidebar sidebar
+signed signedness
+simpl simple
+simpler simpler
+simultan simultaneously
+singl single
+sister sister
+site site
+skip skip
+slenskaitaliano slenskaitaliano
+slower slower
+smalltalk smalltalk
+smith smith
+social social
+softwar software
+son sons
+sort sort sorting
+space space
+spars sparse
+spatial spatial
+special special
+specif specific
+specifi specified specify
+spell spell
+splai splay
+sqaraqalpaqsha sqaraqalpaqsha
+srpskisrpskohrvatski srpskisrpskohrvatski
+stack stack stacks
+standard standard standards
+statement statement
+statesfrancebnf statesfrancebnf
+statist statistics
+stein stein
+storag storage
+store store stored storing
+stream stream
+string string strings
+strongli strongly
+struct struct structs
+structur structure structures structuring
+structureshidden structureshidden
+structurestyp structurestypes
+student students
+subsequ subsequence
+substr substring
+subtre subtrees
+subtyp subtyping
+succinct succinct
+suffix suffix
+suit suited
+suomisvenskatagalog suomisvenskatagalog
+support support
+survei survey
+syntax syntax
+system system systems
+tabl table tables
+tag tagged
+takaoka takaoka
+task tasks
+tau tau
+tech tech
+techniqu techniques
+technolog technology
+templat template
+term terms
+termin terminated
+ternari ternary
+text text
+theoret theoretical
+theori theory
+thing things
+third third
+thoma thomas
+thompson thompson
+thread threads
+thu thus
+ti ti
+time time
+tinadanskdeutscheesti tinadanskdeutscheesti
+titl title
+toggl toggle
+tool tools
+top top
+topic topic
+topmost topmost
+trademark trademark
+transport transportation
+travers traversal
+tree tree trees
+tri tries
+trie trie
+trigram trigram
+trit trit
+tryte tryte
+tupl tuple
+two two
+type type typed types
+typesuninterpret typesuninterpreted
+typic typical typically
+uk uk
+ulombardmagyar ulombardmagyar
+under under
+undirect undirected
+unfit unfit
+unifi unified
+union union
+unit unit
+univers university
+unrol unrolled
+upon upon
+urlc urlcs
+urldownload urldownload
+urrutia urrutia
+usag usage
+usual usually
+utc utc
+vaishnavi vaishnavi
+valu value values
+van van
+variabl variable
+varieti variety
+variou various
+vector vectors
+version version versions
+vertic vertices
+vi vi
+view view
+virginia virginia
+virtual virtual
+void void
+vol vol
+vreda vreda
+vtedata vtedata
+vtestringsstr vtestringsstring
+wagner wagner
+wai way
+walter walter
+waterman waterman
+wegner wegner
+well well
+weslei wesley
+what what
+which which
+while while
+wide widely
+widmay widmayer
+wikibooksresourc wikibooksresources
+wikidata wikidata
+wikidatapag wikidatapages
+wikimedia wikimedia
+wikipedia wikipedia
+wikipediacontact wikipediacontact
+wikiquotetext wikiquotetexts
+wikisourcetextbook wikisourcetextbooks
+wikivers wikiversity
+wiktionarymedia wiktionarymedia
+wilei wiley
+winkler winkler
+wirth wirth
+within within
+without without
+word word words
+work work
+write writing
+wrox wrox
+wunsch wunsch
+xml xml
+xor xor
+yate yates
+yogeshwari yogeshwari
+zbekcha zbekcha
+zhu zhu

@@ -11,15 +11,18 @@ class Program
     private static readonly string OutputDir = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, @"..\..\..\"));
     private static readonly string TokensPath = Path.Combine(OutputDir, "tokens.txt");
     private static readonly string LemmasPath = Path.Combine(OutputDir, "lemmas.txt");
+    private static readonly string PerDocTokensDir = Path.Combine(OutputDir, "tokens_per_doc");
+    private static readonly string PerDocLemmasDir = Path.Combine(OutputDir, "lemmas_per_doc");
 
     // Стеммер Портера для приведения слов к основе
     private static readonly PorterStemmer Stemmer = new();
 
     static void Main(string[] args)
     {
-        // Основной пайплайн обработки
-        var tokens = ProcessFiles();
-        var lemmas = GroupTokensByStem(tokens);
+        // Основной пайплайн обработки:
+        // 1) считаем токены и леммы для КАЖДОГО файла и сохраняем отдельные файлы;
+        // 2) параллельно накапливаем глобальные списки для tokens.txt и lemmas.txt.
+        var (tokens, lemmas) = ProcessFilesPerDocument();
 
         // Сохранение результатов
         SaveResults(tokens, lemmas);
@@ -28,24 +31,73 @@ class Program
     }
 
     /// <summary>
-    /// Основной метод обработки: читает файлы, извлекает текст, токенизирует и фильтрует
+    /// Основной метод обработки: читает каждый файл, извлекает текст, токенизирует и
+    /// сохраняет токены и леммы ПО ФАЙЛАМ, одновременно накапливая глобальные списки.
     /// </summary>
-    /// <returns>HashSet уникальных валидных токенов</returns>
-    private static HashSet<string> ProcessFiles()
+    /// <returns>Глобальные: набор уникальных токенов и словарь лемм</returns>
+    private static (HashSet<string> tokens, Dictionary<string, List<string>> lemmas) ProcessFilesPerDocument()
     {
-        // Читаем все HTML-файлы и извлекаем чистый текст
-        var texts = Directory.GetFiles(DataPath, "*.txt")
-            .Select(TextProcessor.ExtractTextFromHtmlFile);
+        Directory.CreateDirectory(PerDocTokensDir);
+        Directory.CreateDirectory(PerDocLemmasDir);
 
-        // Объединяем весь текст в одну строку для токенизации
-        var cleanText = string.Join("\n", texts);
+        var allTokens = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
+        var allLemmas = new Dictionary<string, List<string>>(StringComparer.OrdinalIgnoreCase);
 
-        // Токенизация с использованием общего TextProcessor:
-        // длина токена >= 2 и отбрасываем стоп-слова
-        var tokens = TextProcessor.Tokenize(cleanText, minTokenLength: 2)
-            .ToHashSet();
+        var files = Directory.GetFiles(DataPath, "*.txt");
 
-        return tokens;
+        foreach (var file in files)
+        {
+            var fileName = Path.GetFileNameWithoutExtension(file);
+
+            // Извлекаем текст и токенизируем (минимальная длина токена 2, как в HW2)
+            var text = TextProcessor.ExtractTextFromHtmlFile(file);
+            var docTokens = TextProcessor.Tokenize(text, minTokenLength: 2)
+                .ToHashSet(StringComparer.OrdinalIgnoreCase);
+
+            if (docTokens.Count == 0)
+                continue;
+
+            // Сохраняем токены текущего документа: по одному в строке
+            var perDocTokensPath = Path.Combine(PerDocTokensDir, $"{fileName}_tokens.txt");
+            File.WriteAllLines(perDocTokensPath, docTokens.OrderBy(t => t), Encoding.UTF8);
+
+            // Группируем токены по стеммам для текущего документа
+            var docLemmas = GroupTokensByStem(docTokens);
+
+            // Сохраняем леммы текущего документа:
+            // <лемма> <токен1> <токен2> ... <токенN>
+            var perDocLemmaLines = docLemmas
+                .Select(g => $"{g.Key} {string.Join(" ", g.Value.OrderBy(t => t))}")
+                .OrderBy(l => l);
+
+            var perDocLemmasPath = Path.Combine(PerDocLemmasDir, $"{fileName}_lemmas.txt");
+            File.WriteAllLines(perDocLemmasPath, perDocLemmaLines, Encoding.UTF8);
+
+            // Накапливаем глобальные токены и леммы
+            allTokens.UnionWith(docTokens);
+
+            foreach (var kvp in docLemmas)
+            {
+                if (!allLemmas.TryGetValue(kvp.Key, out var list))
+                {
+                    list = new List<string>();
+                    allLemmas[kvp.Key] = list;
+                }
+
+                list.AddRange(kvp.Value);
+            }
+        }
+
+        // Удаляем дубликаты токенов внутри списков лемм и сортируем
+        foreach (var key in allLemmas.Keys.ToList())
+        {
+            allLemmas[key] = allLemmas[key]
+                .Distinct(StringComparer.OrdinalIgnoreCase)
+                .OrderBy(t => t)
+                .ToList();
+        }
+
+        return (allTokens, allLemmas);
     }
 
     /// <summary>
