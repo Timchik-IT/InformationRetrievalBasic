@@ -1,6 +1,5 @@
-﻿using System.Text;
-using System.Text.RegularExpressions;
-using HtmlAgilityPack;
+using System.Text;
+using Common;
 using opennlp.tools.stemmer;
 
 namespace HW2;
@@ -12,16 +11,6 @@ class Program
     private static readonly string OutputDir = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, @"..\..\..\"));
     private static readonly string TokensPath = Path.Combine(OutputDir, "tokens.txt");
     private static readonly string LemmasPath = Path.Combine(OutputDir, "lemmas.txt");
-
-    // Стоп-слова для фильтрации (предлоги, союзы, местоимения, глаголы-связки)
-    private static readonly HashSet<string> StopWords =
-    [
-        "the", "a", "an", "and", "or", "but", "in", "on", "at", "to", "for", "of", "with", "by", "from",
-        "up", "about", "into", "through", "during", "before", "after", "above", "below", "between", "both",
-        "is", "are", "was", "were", "be", "been", "being", "have", "has", "had", "do", "does", "did",
-        "will", "would", "could", "should", "can", "may", "might", "must", "i", "you", "he", "she", "it",
-        "we", "they", "me", "him", "her", "us", "them", "my", "your", "his", "its", "our", "their"
-    ];
 
     // Стеммер Портера для приведения слов к основе
     private static readonly PorterStemmer Stemmer = new();
@@ -46,33 +35,17 @@ class Program
     {
         // Читаем все HTML-файлы и извлекаем чистый текст
         var texts = Directory.GetFiles(DataPath, "*.txt")
-            .Select(ExtractTextFromHtml);
+            .Select(TextProcessor.ExtractTextFromHtmlFile);
 
         // Объединяем весь текст в одну строку для токенизации
         var cleanText = string.Join("\n", texts);
 
-        // Токенизация: извлекаем только слова из латинских букв, приводим к нижнему регистру
-        var tokens = Regex.Matches(cleanText.ToLower(), @"[a-z]+")
-            .Select(m => m.Value)
-            // Фильтруем: длина > 1 и не стоп-слово
-            .Where(t => t.Length > 1 && !StopWords.Contains(t))
+        // Токенизация с использованием общего TextProcessor:
+        // длина токена >= 2 и отбрасываем стоп-слова
+        var tokens = TextProcessor.Tokenize(cleanText, minTokenLength: 2)
             .ToHashSet();
 
         return tokens;
-    }
-
-    /// <summary>
-    /// Извлекает текстовое содержимое из HTML-файла, удаляя все теги
-    /// </summary>
-    /// <param name="filePath">Путь к HTML-файлу</param>
-    /// <returns>Чистый текст без разметки</returns>
-    private static string ExtractTextFromHtml(string filePath)
-    {
-        var doc = new HtmlDocument();
-        doc.LoadHtml(File.ReadAllText(filePath, Encoding.UTF8));
-
-        // Внутренний текст узла содержит только видимый контент без тегов
-        return doc.DocumentNode.InnerText;
     }
 
     /// <summary>
@@ -86,7 +59,7 @@ class Program
             // Группируем по стемму каждого токена
             .GroupBy(t => Stemmer.stem(t))
             // Фильтруем пустые ключи и стоп-слова среди лемм
-            .Where(g => !string.IsNullOrWhiteSpace(g.Key) && !StopWords.Contains(g.Key))
+            .Where(g => !string.IsNullOrWhiteSpace(g.Key) && !TextProcessor.StopWords.Contains(g.Key))
             // Создаём словарь с игнорированием регистра для ключей
             .ToDictionary(
                 g => g.Key,
