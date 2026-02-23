@@ -10,8 +10,7 @@ class Program
     private static readonly string TokensPerDocPath =
         Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, @"..\..\..\..\HW2\tokens_per_doc"));
 
-    private static readonly string OutputDir = Directory.GetCurrentDirectory();
-    private static readonly string IndexFilePath = Path.Combine(OutputDir, "inverted_index.txt");
+    private static readonly string IndexFilePath = Path.Combine(AppContext.BaseDirectory, "../../../inverted_index.txt");
 
     // Инвертированный индекс: термин -> список ID документов
     private static readonly Dictionary<string, HashSet<int>> InvertedIndex = new(StringComparer.OrdinalIgnoreCase);
